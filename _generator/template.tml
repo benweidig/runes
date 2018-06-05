@@ -1,0 +1,15 @@
+// Package {{.Block.PackageName}}
+// Block: {{.Block.Name}}
+// Range: {{.Block.Range.String}}
+package {{.Block.PackageName}}
+
+const (
+{{- range .CodePoints}}
+
+	// {{.VariableName}} {{.Name | raw}}
+	// Codepoint: U+{{.PointString}}
+	// Category:  {{.Category}}
+	// String:    {{ .String }}
+	{{.VariableName}} = '{{.Escaped}}'
+{{- end}}
+)
