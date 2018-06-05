@@ -7,4 +7,4 @@ do
 done
 
 cd _generator
-#go run main.go
+go run main.go
