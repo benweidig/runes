@@ -8,6 +8,8 @@ The blocks are split into packages so you don't have to import all of Unicode to
 
 ## Generate
 
+Download newest files from <https://www.unicode.org/versions/latest/> and place it in `_generator/data`
+
 Run `generate.sh` to re-generate the files.
 
 # WORK IN PROGRESS

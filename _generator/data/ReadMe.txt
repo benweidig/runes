@@ -1,14 +1,16 @@
 # Unicode Character Database
-# Date: 2017-06-18, 23:32:00 GMT [KW]
-# © 2017 Unicode®, Inc.
-# For terms of use, see http://www.unicode.org/terms_of_use.html
+# Date: 2021-09-10, 17:22:00 GMT [KW]
+# © 2021 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use, see https://www.unicode.org/terms_of_use.html
 #
 # For documentation, see the following:
 # NamesList.html
 # UAX #38, "Unicode Han Database (Unihan)"
-# UAX #44, "Unicode Character Database."
+# UAX #44, "Unicode Character Database"
+# UTS #51, "Unicode Emoji"
 #
-# The UAXes can be accessed at http://www.unicode.org/versions/Unicode10.0.0/
+# The UAXes and UTS #51 can be accessed at https://www.unicode.org/versions/Unicode14.0.0/
 
 This directory contains the final data files
-for the Unicode Character Database, for Version 10.0.0 of the Unicode Standard.
+for the Unicode Character Database, for Version 14.0.0 of the Unicode Standard.
