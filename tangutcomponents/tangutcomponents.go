@@ -4534,4 +4534,82 @@ const (
 	// Category:  Letter, Other
 	// String:    𘫲
 	TangutComponent755 = '\U00018af2'
+
+	// TangutComponent756 TANGUT COMPONENT-756
+	// Codepoint: U+18AF3
+	// Category:  Letter, Other
+	// String:    𘫳
+	TangutComponent756 = '\U00018af3'
+
+	// TangutComponent757 TANGUT COMPONENT-757
+	// Codepoint: U+18AF4
+	// Category:  Letter, Other
+	// String:    𘫴
+	TangutComponent757 = '\U00018af4'
+
+	// TangutComponent758 TANGUT COMPONENT-758
+	// Codepoint: U+18AF5
+	// Category:  Letter, Other
+	// String:    𘫵
+	TangutComponent758 = '\U00018af5'
+
+	// TangutComponent759 TANGUT COMPONENT-759
+	// Codepoint: U+18AF6
+	// Category:  Letter, Other
+	// String:    𘫶
+	TangutComponent759 = '\U00018af6'
+
+	// TangutComponent760 TANGUT COMPONENT-760
+	// Codepoint: U+18AF7
+	// Category:  Letter, Other
+	// String:    𘫷
+	TangutComponent760 = '\U00018af7'
+
+	// TangutComponent761 TANGUT COMPONENT-761
+	// Codepoint: U+18AF8
+	// Category:  Letter, Other
+	// String:    𘫸
+	TangutComponent761 = '\U00018af8'
+
+	// TangutComponent762 TANGUT COMPONENT-762
+	// Codepoint: U+18AF9
+	// Category:  Letter, Other
+	// String:    𘫹
+	TangutComponent762 = '\U00018af9'
+
+	// TangutComponent763 TANGUT COMPONENT-763
+	// Codepoint: U+18AFA
+	// Category:  Letter, Other
+	// String:    𘫺
+	TangutComponent763 = '\U00018afa'
+
+	// TangutComponent764 TANGUT COMPONENT-764
+	// Codepoint: U+18AFB
+	// Category:  Letter, Other
+	// String:    𘫻
+	TangutComponent764 = '\U00018afb'
+
+	// TangutComponent765 TANGUT COMPONENT-765
+	// Codepoint: U+18AFC
+	// Category:  Letter, Other
+	// String:    𘫼
+	TangutComponent765 = '\U00018afc'
+
+	// TangutComponent766 TANGUT COMPONENT-766
+	// Codepoint: U+18AFD
+	// Category:  Letter, Other
+	// String:    𘫽
+	TangutComponent766 = '\U00018afd'
+
+	// TangutComponent767 TANGUT COMPONENT-767
+	// Codepoint: U+18AFE
+	// Category:  Letter, Other
+	// String:    𘫾
+	TangutComponent767 = '\U00018afe'
+
+	// TangutComponent768 TANGUT COMPONENT-768
+	// Codepoint: U+18AFF
+	// Category:  Letter, Other
+	// String:    𘫿
+	TangutComponent768 = '\U00018aff'
 )

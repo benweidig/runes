@@ -287,6 +287,12 @@ const (
 	// String:    Ⱞ
 	GlagoliticCapitalLetterLatinateMyslite = '\u2c2e'
 
+	// GlagoliticCapitalLetterCaudateChrivi GLAGOLITIC CAPITAL LETTER CAUDATE CHRIVI
+	// Codepoint: U+2C2F
+	// Category:  Letter, Uppercase
+	// String:    Ⱟ
+	GlagoliticCapitalLetterCaudateChrivi = '\u2c2f'
+
 	// GlagoliticSmallLetterAzu GLAGOLITIC SMALL LETTER AZU
 	// Codepoint: U+2C30
 	// Category:  Letter, Lowercase
@@ -568,4 +574,10 @@ const (
 	// Category:  Letter, Lowercase
 	// String:    ⱞ
 	GlagoliticSmallLetterLatinateMyslite = '\u2c5e'
+
+	// GlagoliticSmallLetterCaudateChrivi GLAGOLITIC SMALL LETTER CAUDATE CHRIVI
+	// Codepoint: U+2C5F
+	// Category:  Letter, Lowercase
+	// String:    ⱟ
+	GlagoliticSmallLetterCaudateChrivi = '\u2c5f'
 )

@@ -892,4 +892,16 @@ const (
 	// Category:  Symbol, Other
 	// String:    🢭
 	WhiteArrowShaftWidthTwoThirds = '\U0001f8ad'
+
+	// ArrowPointingUpwardsThenNorthWest ARROW POINTING UPWARDS THEN NORTH WEST
+	// Codepoint: U+1F8B0
+	// Category:  Symbol, Other
+	// String:    🢰
+	ArrowPointingUpwardsThenNorthWest = '\U0001f8b0'
+
+	// ArrowPointingRightwardsThenCurvingSouthWest ARROW POINTING RIGHTWARDS THEN CURVING SOUTH WEST
+	// Codepoint: U+1F8B1
+	// Category:  Symbol, Other
+	// String:    🢱
+	ArrowPointingRightwardsThenCurvingSouthWest = '\U0001f8b1'
 )

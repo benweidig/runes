@@ -29,6 +29,12 @@ const (
 	// String:    ഃ
 	MalayalamSignVisarga = '\u0d03'
 
+	// MalayalamLetterVedicAnusvara MALAYALAM LETTER VEDIC ANUSVARA
+	// Codepoint: U+0D04
+	// Category:  Letter, Other
+	// String:    ഄ
+	MalayalamLetterVedicAnusvara = '\u0d04'
+
 	// MalayalamLetterA MALAYALAM LETTER A
 	// Codepoint: U+0D05
 	// Category:  Letter, Other

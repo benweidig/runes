@@ -196,4 +196,10 @@ const (
 	// Category:  Symbol, Currency
 	// String:    ₿
 	BitcoinSign = '\u20bf'
+
+	// SomSign SOM SIGN
+	// Codepoint: U+20C0
+	// Category:  Symbol, Currency
+	// String:    ⃀
+	SomSign = '\u20c0'
 )

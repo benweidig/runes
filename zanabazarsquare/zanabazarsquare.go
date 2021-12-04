@@ -49,13 +49,13 @@ const (
 
 	// ZanabazarSquareVowelSignAi ZANABAZAR SQUARE VOWEL SIGN AI
 	// Codepoint: U+11A07
-	// Category:  	Mark, Spacing Combining
+	// Category:  	Mark, Nonspacing
 	// String:    𑨇
 	ZanabazarSquareVowelSignAi = '\U00011a07'
 
 	// ZanabazarSquareVowelSignAu ZANABAZAR SQUARE VOWEL SIGN AU
 	// Codepoint: U+11A08
-	// Category:  	Mark, Spacing Combining
+	// Category:  	Mark, Nonspacing
 	// String:    𑨈
 	ZanabazarSquareVowelSignAu = '\U00011a08'
 

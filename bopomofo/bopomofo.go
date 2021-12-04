@@ -256,4 +256,10 @@ const (
 	// Category:  Letter, Other
 	// String:    ㄮ
 	BopomofoLetterOWithDotAbove = '\u312e'
+
+	// BopomofoLetterNn BOPOMOFO LETTER NN
+	// Codepoint: U+312F
+	// Category:  Letter, Other
+	// String:    ㄯ
+	BopomofoLetterNn = '\u312f'
 )

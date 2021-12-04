@@ -5,6 +5,12 @@ package sinhala
 
 const (
 
+	// SinhalaSignCandrabindu SINHALA SIGN CANDRABINDU
+	// Codepoint: U+0D81
+	// Category:  	Mark, Nonspacing
+	// String:    ඁ
+	SinhalaSignCandrabindu = '\u0d81'
+
 	// SinhalaSignAnusvaraya SINHALA SIGN ANUSVARAYA
 	// Codepoint: U+0D82
 	// Category:  	Mark, Spacing Combining

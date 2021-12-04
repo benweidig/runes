@@ -29,6 +29,12 @@ const (
 	// String:    ః
 	TeluguSignVisarga = '\u0c03'
 
+	// TeluguSignCombiningAnusvaraAbove TELUGU SIGN COMBINING ANUSVARA ABOVE
+	// Codepoint: U+0C04
+	// Category:  	Mark, Nonspacing
+	// String:    ఄ
+	TeluguSignCombiningAnusvaraAbove = '\u0c04'
+
 	// TeluguLetterA TELUGU LETTER A
 	// Codepoint: U+0C05
 	// Category:  Letter, Other
@@ -329,6 +335,12 @@ const (
 	// String:    హ
 	TeluguLetterHa = '\u0c39'
 
+	// TeluguSignNukta TELUGU SIGN NUKTA
+	// Codepoint: U+0C3C
+	// Category:  	Mark, Nonspacing
+	// String:    ఼
+	TeluguSignNukta = '\u0c3c'
+
 	// TeluguSignAvagraha TELUGU SIGN AVAGRAHA
 	// Codepoint: U+0C3D
 	// Category:  Letter, Other
@@ -449,6 +461,12 @@ const (
 	// String:    ౚ
 	TeluguLetterRrra = '\u0c5a'
 
+	// TeluguLetterNakaaraPollu TELUGU LETTER NAKAARA POLLU
+	// Codepoint: U+0C5D
+	// Category:  Letter, Other
+	// String:    ౝ
+	TeluguLetterNakaaraPollu = '\u0c5d'
+
 	// TeluguLetterVocalicRr TELUGU LETTER VOCALIC RR
 	// Codepoint: U+0C60
 	// Category:  Letter, Other
@@ -532,6 +550,12 @@ const (
 	// Category:  	Number, Decimal Digit
 	// String:    ౯
 	TeluguDigitNine = '\u0c6f'
+
+	// TeluguSignSiddham TELUGU SIGN SIDDHAM
+	// Codepoint: U+0C77
+	// Category:  Punctuation, Other
+	// String:    ౷
+	TeluguSignSiddham = '\u0c77'
 
 	// TeluguFractionDigitZeroForOddPowersOfFour TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR
 	// Codepoint: U+0C78

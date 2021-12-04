@@ -514,4 +514,106 @@ const (
 	// Category:  Symbol, Other
 	// String:    🟔
 	HeavyTwelvePointedPinwheelStar = '\U0001f7d4'
+
+	// CircledTriangle CIRCLED TRIANGLE
+	// Codepoint: U+1F7D5
+	// Category:  Symbol, Other
+	// String:    🟕
+	CircledTriangle = '\U0001f7d5'
+
+	// NegativeCircledTriangle NEGATIVE CIRCLED TRIANGLE
+	// Codepoint: U+1F7D6
+	// Category:  Symbol, Other
+	// String:    🟖
+	NegativeCircledTriangle = '\U0001f7d6'
+
+	// CircledSquare CIRCLED SQUARE
+	// Codepoint: U+1F7D7
+	// Category:  Symbol, Other
+	// String:    🟗
+	CircledSquare = '\U0001f7d7'
+
+	// NegativeCircledSquare NEGATIVE CIRCLED SQUARE
+	// Codepoint: U+1F7D8
+	// Category:  Symbol, Other
+	// String:    🟘
+	NegativeCircledSquare = '\U0001f7d8'
+
+	// LargeOrangeCircle LARGE ORANGE CIRCLE
+	// Codepoint: U+1F7E0
+	// Category:  Symbol, Other
+	// String:    🟠
+	LargeOrangeCircle = '\U0001f7e0'
+
+	// LargeYellowCircle LARGE YELLOW CIRCLE
+	// Codepoint: U+1F7E1
+	// Category:  Symbol, Other
+	// String:    🟡
+	LargeYellowCircle = '\U0001f7e1'
+
+	// LargeGreenCircle LARGE GREEN CIRCLE
+	// Codepoint: U+1F7E2
+	// Category:  Symbol, Other
+	// String:    🟢
+	LargeGreenCircle = '\U0001f7e2'
+
+	// LargePurpleCircle LARGE PURPLE CIRCLE
+	// Codepoint: U+1F7E3
+	// Category:  Symbol, Other
+	// String:    🟣
+	LargePurpleCircle = '\U0001f7e3'
+
+	// LargeBrownCircle LARGE BROWN CIRCLE
+	// Codepoint: U+1F7E4
+	// Category:  Symbol, Other
+	// String:    🟤
+	LargeBrownCircle = '\U0001f7e4'
+
+	// LargeRedSquare LARGE RED SQUARE
+	// Codepoint: U+1F7E5
+	// Category:  Symbol, Other
+	// String:    🟥
+	LargeRedSquare = '\U0001f7e5'
+
+	// LargeBlueSquare LARGE BLUE SQUARE
+	// Codepoint: U+1F7E6
+	// Category:  Symbol, Other
+	// String:    🟦
+	LargeBlueSquare = '\U0001f7e6'
+
+	// LargeOrangeSquare LARGE ORANGE SQUARE
+	// Codepoint: U+1F7E7
+	// Category:  Symbol, Other
+	// String:    🟧
+	LargeOrangeSquare = '\U0001f7e7'
+
+	// LargeYellowSquare LARGE YELLOW SQUARE
+	// Codepoint: U+1F7E8
+	// Category:  Symbol, Other
+	// String:    🟨
+	LargeYellowSquare = '\U0001f7e8'
+
+	// LargeGreenSquare LARGE GREEN SQUARE
+	// Codepoint: U+1F7E9
+	// Category:  Symbol, Other
+	// String:    🟩
+	LargeGreenSquare = '\U0001f7e9'
+
+	// LargePurpleSquare LARGE PURPLE SQUARE
+	// Codepoint: U+1F7EA
+	// Category:  Symbol, Other
+	// String:    🟪
+	LargePurpleSquare = '\U0001f7ea'
+
+	// LargeBrownSquare LARGE BROWN SQUARE
+	// Codepoint: U+1F7EB
+	// Category:  Symbol, Other
+	// String:    🟫
+	LargeBrownSquare = '\U0001f7eb'
+
+	// HeavyEqualsSign HEAVY EQUALS SIGN
+	// Codepoint: U+1F7F0
+	// Category:  Symbol, Other
+	// String:    🟰
+	HeavyEqualsSign = '\U0001f7f0'
 )

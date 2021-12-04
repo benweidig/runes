@@ -11,9 +11,9 @@ const (
 	// String:    𪜀
 	U2A700 = '\U0002a700'
 
-	// U2B734 <CJK Ideograph Extension C, Last>
-	// Codepoint: U+2B734
+	// U2B738 <CJK Ideograph Extension C, Last>
+	// Codepoint: U+2B738
 	// Category:  Letter, Other
-	// String:    𫜴
-	U2B734 = '\U0002b734'
+	// String:    𫜸
+	U2B738 = '\U0002b738'
 )

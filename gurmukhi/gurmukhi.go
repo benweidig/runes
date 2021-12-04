@@ -478,4 +478,10 @@ const (
 	// Category:  	Mark, Nonspacing
 	// String:    ੵ
 	GurmukhiSignYakash = '\u0a75'
+
+	// GurmukhiAbbreviationSign GURMUKHI ABBREVIATION SIGN
+	// Codepoint: U+0A76
+	// Category:  Punctuation, Other
+	// String:    ੶
+	GurmukhiAbbreviationSign = '\u0a76'
 )

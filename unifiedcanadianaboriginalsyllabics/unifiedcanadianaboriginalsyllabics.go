@@ -3733,7 +3733,7 @@ const (
 
 	// CanadianSyllabicsChiSign CANADIAN SYLLABICS CHI SIGN
 	// Codepoint: U+166D
-	// Category:  Punctuation, Other
+	// Category:  Symbol, Other
 	// String:    ᙭
 	CanadianSyllabicsChiSign = '\u166d'
 

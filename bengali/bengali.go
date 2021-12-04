@@ -574,4 +574,10 @@ const (
 	// Category:  Punctuation, Other
 	// String:    ৽
 	BengaliAbbreviationSign = '\u09fd'
+
+	// BengaliSandhiMark BENGALI SANDHI MARK
+	// Codepoint: U+09FE
+	// Category:  	Mark, Nonspacing
+	// String:    ৾
+	BengaliSandhiMark = '\u09fe'
 )

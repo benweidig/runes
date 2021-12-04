@@ -77,6 +77,30 @@ const (
 	// String:    🤋
 	DownwardFacingNotchedHookWithDot = '\U0001f90b'
 
+	// PinchedFingers PINCHED FINGERS
+	// Codepoint: U+1F90C
+	// Category:  Symbol, Other
+	// String:    🤌
+	PinchedFingers = '\U0001f90c'
+
+	// WhiteHeart WHITE HEART
+	// Codepoint: U+1F90D
+	// Category:  Symbol, Other
+	// String:    🤍
+	WhiteHeart = '\U0001f90d'
+
+	// BrownHeart BROWN HEART
+	// Codepoint: U+1F90E
+	// Category:  Symbol, Other
+	// String:    🤎
+	BrownHeart = '\U0001f90e'
+
+	// PinchingHand PINCHING HAND
+	// Codepoint: U+1F90F
+	// Category:  Symbol, Other
+	// String:    🤏
+	PinchingHand = '\U0001f90f'
+
 	// ZipperMouthFace ZIPPER-MOUTH FACE
 	// Codepoint: U+1F910
 	// Category:  Symbol, Other
@@ -359,6 +383,12 @@ const (
 	// String:    🤾
 	Handball = '\U0001f93e'
 
+	// DivingMask DIVING MASK
+	// Codepoint: U+1F93F
+	// Category:  Symbol, Other
+	// String:    🤿
+	DivingMask = '\U0001f93f'
+
 	// WiltedFlower WILTED FLOWER
 	// Codepoint: U+1F940
 	// Category:  Symbol, Other
@@ -436,6 +466,24 @@ const (
 	// Category:  Symbol, Other
 	// String:    🥌
 	CurlingStone = '\U0001f94c'
+
+	// LacrosseStickAndBall LACROSSE STICK AND BALL
+	// Codepoint: U+1F94D
+	// Category:  Symbol, Other
+	// String:    🥍
+	LacrosseStickAndBall = '\U0001f94d'
+
+	// Softball SOFTBALL
+	// Codepoint: U+1F94E
+	// Category:  Symbol, Other
+	// String:    🥎
+	Softball = '\U0001f94e'
+
+	// FlyingDisc FLYING DISC
+	// Codepoint: U+1F94F
+	// Category:  Symbol, Other
+	// String:    🥏
+	FlyingDisc = '\U0001f94f'
 
 	// Croissant CROISSANT
 	// Codepoint: U+1F950
@@ -605,6 +653,126 @@ const (
 	// String:    🥫
 	CannedFood = '\U0001f96b'
 
+	// LeafyGreen LEAFY GREEN
+	// Codepoint: U+1F96C
+	// Category:  Symbol, Other
+	// String:    🥬
+	LeafyGreen = '\U0001f96c'
+
+	// Mango MANGO
+	// Codepoint: U+1F96D
+	// Category:  Symbol, Other
+	// String:    🥭
+	Mango = '\U0001f96d'
+
+	// MoonCake MOON CAKE
+	// Codepoint: U+1F96E
+	// Category:  Symbol, Other
+	// String:    🥮
+	MoonCake = '\U0001f96e'
+
+	// Bagel BAGEL
+	// Codepoint: U+1F96F
+	// Category:  Symbol, Other
+	// String:    🥯
+	Bagel = '\U0001f96f'
+
+	// SmilingFaceWithSmilingEyesAndThreeHearts SMILING FACE WITH SMILING EYES AND THREE HEARTS
+	// Codepoint: U+1F970
+	// Category:  Symbol, Other
+	// String:    🥰
+	SmilingFaceWithSmilingEyesAndThreeHearts = '\U0001f970'
+
+	// YawningFace YAWNING FACE
+	// Codepoint: U+1F971
+	// Category:  Symbol, Other
+	// String:    🥱
+	YawningFace = '\U0001f971'
+
+	// SmilingFaceWithTear SMILING FACE WITH TEAR
+	// Codepoint: U+1F972
+	// Category:  Symbol, Other
+	// String:    🥲
+	SmilingFaceWithTear = '\U0001f972'
+
+	// FaceWithPartyHornAndPartyHat FACE WITH PARTY HORN AND PARTY HAT
+	// Codepoint: U+1F973
+	// Category:  Symbol, Other
+	// String:    🥳
+	FaceWithPartyHornAndPartyHat = '\U0001f973'
+
+	// FaceWithUnevenEyesAndWavyMouth FACE WITH UNEVEN EYES AND WAVY MOUTH
+	// Codepoint: U+1F974
+	// Category:  Symbol, Other
+	// String:    🥴
+	FaceWithUnevenEyesAndWavyMouth = '\U0001f974'
+
+	// OverheatedFace OVERHEATED FACE
+	// Codepoint: U+1F975
+	// Category:  Symbol, Other
+	// String:    🥵
+	OverheatedFace = '\U0001f975'
+
+	// FreezingFace FREEZING FACE
+	// Codepoint: U+1F976
+	// Category:  Symbol, Other
+	// String:    🥶
+	FreezingFace = '\U0001f976'
+
+	// Ninja NINJA
+	// Codepoint: U+1F977
+	// Category:  Symbol, Other
+	// String:    🥷
+	Ninja = '\U0001f977'
+
+	// DisguisedFace DISGUISED FACE
+	// Codepoint: U+1F978
+	// Category:  Symbol, Other
+	// String:    🥸
+	DisguisedFace = '\U0001f978'
+
+	// FaceHoldingBackTears FACE HOLDING BACK TEARS
+	// Codepoint: U+1F979
+	// Category:  Symbol, Other
+	// String:    🥹
+	FaceHoldingBackTears = '\U0001f979'
+
+	// FaceWithPleadingEyes FACE WITH PLEADING EYES
+	// Codepoint: U+1F97A
+	// Category:  Symbol, Other
+	// String:    🥺
+	FaceWithPleadingEyes = '\U0001f97a'
+
+	// Sari SARI
+	// Codepoint: U+1F97B
+	// Category:  Symbol, Other
+	// String:    🥻
+	Sari = '\U0001f97b'
+
+	// LabCoat LAB COAT
+	// Codepoint: U+1F97C
+	// Category:  Symbol, Other
+	// String:    🥼
+	LabCoat = '\U0001f97c'
+
+	// Goggles GOGGLES
+	// Codepoint: U+1F97D
+	// Category:  Symbol, Other
+	// String:    🥽
+	Goggles = '\U0001f97d'
+
+	// HikingBoot HIKING BOOT
+	// Codepoint: U+1F97E
+	// Category:  Symbol, Other
+	// String:    🥾
+	HikingBoot = '\U0001f97e'
+
+	// FlatShoe FLAT SHOE
+	// Codepoint: U+1F97F
+	// Category:  Symbol, Other
+	// String:    🥿
+	FlatShoe = '\U0001f97f'
+
 	// Crab CRAB
 	// Codepoint: U+1F980
 	// Category:  Symbol, Other
@@ -749,11 +917,341 @@ const (
 	// String:    🦗
 	Cricket = '\U0001f997'
 
+	// Kangaroo KANGAROO
+	// Codepoint: U+1F998
+	// Category:  Symbol, Other
+	// String:    🦘
+	Kangaroo = '\U0001f998'
+
+	// Llama LLAMA
+	// Codepoint: U+1F999
+	// Category:  Symbol, Other
+	// String:    🦙
+	Llama = '\U0001f999'
+
+	// Peacock PEACOCK
+	// Codepoint: U+1F99A
+	// Category:  Symbol, Other
+	// String:    🦚
+	Peacock = '\U0001f99a'
+
+	// Hippopotamus HIPPOPOTAMUS
+	// Codepoint: U+1F99B
+	// Category:  Symbol, Other
+	// String:    🦛
+	Hippopotamus = '\U0001f99b'
+
+	// Parrot PARROT
+	// Codepoint: U+1F99C
+	// Category:  Symbol, Other
+	// String:    🦜
+	Parrot = '\U0001f99c'
+
+	// Raccoon RACCOON
+	// Codepoint: U+1F99D
+	// Category:  Symbol, Other
+	// String:    🦝
+	Raccoon = '\U0001f99d'
+
+	// Lobster LOBSTER
+	// Codepoint: U+1F99E
+	// Category:  Symbol, Other
+	// String:    🦞
+	Lobster = '\U0001f99e'
+
+	// Mosquito MOSQUITO
+	// Codepoint: U+1F99F
+	// Category:  Symbol, Other
+	// String:    🦟
+	Mosquito = '\U0001f99f'
+
+	// Microbe MICROBE
+	// Codepoint: U+1F9A0
+	// Category:  Symbol, Other
+	// String:    🦠
+	Microbe = '\U0001f9a0'
+
+	// Badger BADGER
+	// Codepoint: U+1F9A1
+	// Category:  Symbol, Other
+	// String:    🦡
+	Badger = '\U0001f9a1'
+
+	// Swan SWAN
+	// Codepoint: U+1F9A2
+	// Category:  Symbol, Other
+	// String:    🦢
+	Swan = '\U0001f9a2'
+
+	// Mammoth MAMMOTH
+	// Codepoint: U+1F9A3
+	// Category:  Symbol, Other
+	// String:    🦣
+	Mammoth = '\U0001f9a3'
+
+	// Dodo DODO
+	// Codepoint: U+1F9A4
+	// Category:  Symbol, Other
+	// String:    🦤
+	Dodo = '\U0001f9a4'
+
+	// Sloth SLOTH
+	// Codepoint: U+1F9A5
+	// Category:  Symbol, Other
+	// String:    🦥
+	Sloth = '\U0001f9a5'
+
+	// Otter OTTER
+	// Codepoint: U+1F9A6
+	// Category:  Symbol, Other
+	// String:    🦦
+	Otter = '\U0001f9a6'
+
+	// Orangutan ORANGUTAN
+	// Codepoint: U+1F9A7
+	// Category:  Symbol, Other
+	// String:    🦧
+	Orangutan = '\U0001f9a7'
+
+	// Skunk SKUNK
+	// Codepoint: U+1F9A8
+	// Category:  Symbol, Other
+	// String:    🦨
+	Skunk = '\U0001f9a8'
+
+	// Flamingo FLAMINGO
+	// Codepoint: U+1F9A9
+	// Category:  Symbol, Other
+	// String:    🦩
+	Flamingo = '\U0001f9a9'
+
+	// Oyster OYSTER
+	// Codepoint: U+1F9AA
+	// Category:  Symbol, Other
+	// String:    🦪
+	Oyster = '\U0001f9aa'
+
+	// Beaver BEAVER
+	// Codepoint: U+1F9AB
+	// Category:  Symbol, Other
+	// String:    🦫
+	Beaver = '\U0001f9ab'
+
+	// Bison BISON
+	// Codepoint: U+1F9AC
+	// Category:  Symbol, Other
+	// String:    🦬
+	Bison = '\U0001f9ac'
+
+	// Seal SEAL
+	// Codepoint: U+1F9AD
+	// Category:  Symbol, Other
+	// String:    🦭
+	Seal = '\U0001f9ad'
+
+	// GuideDog GUIDE DOG
+	// Codepoint: U+1F9AE
+	// Category:  Symbol, Other
+	// String:    🦮
+	GuideDog = '\U0001f9ae'
+
+	// ProbingCane PROBING CANE
+	// Codepoint: U+1F9AF
+	// Category:  Symbol, Other
+	// String:    🦯
+	ProbingCane = '\U0001f9af'
+
+	// EmojiComponentRedHair EMOJI COMPONENT RED HAIR
+	// Codepoint: U+1F9B0
+	// Category:  Symbol, Other
+	// String:    🦰
+	EmojiComponentRedHair = '\U0001f9b0'
+
+	// EmojiComponentCurlyHair EMOJI COMPONENT CURLY HAIR
+	// Codepoint: U+1F9B1
+	// Category:  Symbol, Other
+	// String:    🦱
+	EmojiComponentCurlyHair = '\U0001f9b1'
+
+	// EmojiComponentBald EMOJI COMPONENT BALD
+	// Codepoint: U+1F9B2
+	// Category:  Symbol, Other
+	// String:    🦲
+	EmojiComponentBald = '\U0001f9b2'
+
+	// EmojiComponentWhiteHair EMOJI COMPONENT WHITE HAIR
+	// Codepoint: U+1F9B3
+	// Category:  Symbol, Other
+	// String:    🦳
+	EmojiComponentWhiteHair = '\U0001f9b3'
+
+	// Bone BONE
+	// Codepoint: U+1F9B4
+	// Category:  Symbol, Other
+	// String:    🦴
+	Bone = '\U0001f9b4'
+
+	// Leg LEG
+	// Codepoint: U+1F9B5
+	// Category:  Symbol, Other
+	// String:    🦵
+	Leg = '\U0001f9b5'
+
+	// Foot FOOT
+	// Codepoint: U+1F9B6
+	// Category:  Symbol, Other
+	// String:    🦶
+	Foot = '\U0001f9b6'
+
+	// Tooth TOOTH
+	// Codepoint: U+1F9B7
+	// Category:  Symbol, Other
+	// String:    🦷
+	Tooth = '\U0001f9b7'
+
+	// Superhero SUPERHERO
+	// Codepoint: U+1F9B8
+	// Category:  Symbol, Other
+	// String:    🦸
+	Superhero = '\U0001f9b8'
+
+	// Supervillain SUPERVILLAIN
+	// Codepoint: U+1F9B9
+	// Category:  Symbol, Other
+	// String:    🦹
+	Supervillain = '\U0001f9b9'
+
+	// SafetyVest SAFETY VEST
+	// Codepoint: U+1F9BA
+	// Category:  Symbol, Other
+	// String:    🦺
+	SafetyVest = '\U0001f9ba'
+
+	// EarWithHearingAid EAR WITH HEARING AID
+	// Codepoint: U+1F9BB
+	// Category:  Symbol, Other
+	// String:    🦻
+	EarWithHearingAid = '\U0001f9bb'
+
+	// MotorizedWheelchair MOTORIZED WHEELCHAIR
+	// Codepoint: U+1F9BC
+	// Category:  Symbol, Other
+	// String:    🦼
+	MotorizedWheelchair = '\U0001f9bc'
+
+	// ManualWheelchair MANUAL WHEELCHAIR
+	// Codepoint: U+1F9BD
+	// Category:  Symbol, Other
+	// String:    🦽
+	ManualWheelchair = '\U0001f9bd'
+
+	// MechanicalArm MECHANICAL ARM
+	// Codepoint: U+1F9BE
+	// Category:  Symbol, Other
+	// String:    🦾
+	MechanicalArm = '\U0001f9be'
+
+	// MechanicalLeg MECHANICAL LEG
+	// Codepoint: U+1F9BF
+	// Category:  Symbol, Other
+	// String:    🦿
+	MechanicalLeg = '\U0001f9bf'
+
 	// CheeseWedge CHEESE WEDGE
 	// Codepoint: U+1F9C0
 	// Category:  Symbol, Other
 	// String:    🧀
 	CheeseWedge = '\U0001f9c0'
+
+	// Cupcake CUPCAKE
+	// Codepoint: U+1F9C1
+	// Category:  Symbol, Other
+	// String:    🧁
+	Cupcake = '\U0001f9c1'
+
+	// SaltShaker SALT SHAKER
+	// Codepoint: U+1F9C2
+	// Category:  Symbol, Other
+	// String:    🧂
+	SaltShaker = '\U0001f9c2'
+
+	// BeverageBox BEVERAGE BOX
+	// Codepoint: U+1F9C3
+	// Category:  Symbol, Other
+	// String:    🧃
+	BeverageBox = '\U0001f9c3'
+
+	// Garlic GARLIC
+	// Codepoint: U+1F9C4
+	// Category:  Symbol, Other
+	// String:    🧄
+	Garlic = '\U0001f9c4'
+
+	// Onion ONION
+	// Codepoint: U+1F9C5
+	// Category:  Symbol, Other
+	// String:    🧅
+	Onion = '\U0001f9c5'
+
+	// Falafel FALAFEL
+	// Codepoint: U+1F9C6
+	// Category:  Symbol, Other
+	// String:    🧆
+	Falafel = '\U0001f9c6'
+
+	// Waffle WAFFLE
+	// Codepoint: U+1F9C7
+	// Category:  Symbol, Other
+	// String:    🧇
+	Waffle = '\U0001f9c7'
+
+	// Butter BUTTER
+	// Codepoint: U+1F9C8
+	// Category:  Symbol, Other
+	// String:    🧈
+	Butter = '\U0001f9c8'
+
+	// MateDrink MATE DRINK
+	// Codepoint: U+1F9C9
+	// Category:  Symbol, Other
+	// String:    🧉
+	MateDrink = '\U0001f9c9'
+
+	// IceCube ICE CUBE
+	// Codepoint: U+1F9CA
+	// Category:  Symbol, Other
+	// String:    🧊
+	IceCube = '\U0001f9ca'
+
+	// BubbleTea BUBBLE TEA
+	// Codepoint: U+1F9CB
+	// Category:  Symbol, Other
+	// String:    🧋
+	BubbleTea = '\U0001f9cb'
+
+	// Troll TROLL
+	// Codepoint: U+1F9CC
+	// Category:  Symbol, Other
+	// String:    🧌
+	Troll = '\U0001f9cc'
+
+	// StandingPerson STANDING PERSON
+	// Codepoint: U+1F9CD
+	// Category:  Symbol, Other
+	// String:    🧍
+	StandingPerson = '\U0001f9cd'
+
+	// KneelingPerson KNEELING PERSON
+	// Codepoint: U+1F9CE
+	// Category:  Symbol, Other
+	// String:    🧎
+	KneelingPerson = '\U0001f9ce'
+
+	// DeafPerson DEAF PERSON
+	// Codepoint: U+1F9CF
+	// Category:  Symbol, Other
+	// String:    🧏
+	DeafPerson = '\U0001f9cf'
 
 	// FaceWithMonocle FACE WITH MONOCLE
 	// Codepoint: U+1F9D0
@@ -892,4 +1390,154 @@ const (
 	// Category:  Symbol, Other
 	// String:    🧦
 	Socks = '\U0001f9e6'
+
+	// RedGiftEnvelope RED GIFT ENVELOPE
+	// Codepoint: U+1F9E7
+	// Category:  Symbol, Other
+	// String:    🧧
+	RedGiftEnvelope = '\U0001f9e7'
+
+	// Firecracker FIRECRACKER
+	// Codepoint: U+1F9E8
+	// Category:  Symbol, Other
+	// String:    🧨
+	Firecracker = '\U0001f9e8'
+
+	// JigsawPuzzlePiece JIGSAW PUZZLE PIECE
+	// Codepoint: U+1F9E9
+	// Category:  Symbol, Other
+	// String:    🧩
+	JigsawPuzzlePiece = '\U0001f9e9'
+
+	// TestTube TEST TUBE
+	// Codepoint: U+1F9EA
+	// Category:  Symbol, Other
+	// String:    🧪
+	TestTube = '\U0001f9ea'
+
+	// PetriDish PETRI DISH
+	// Codepoint: U+1F9EB
+	// Category:  Symbol, Other
+	// String:    🧫
+	PetriDish = '\U0001f9eb'
+
+	// DnaDoubleHelix DNA DOUBLE HELIX
+	// Codepoint: U+1F9EC
+	// Category:  Symbol, Other
+	// String:    🧬
+	DnaDoubleHelix = '\U0001f9ec'
+
+	// Compass COMPASS
+	// Codepoint: U+1F9ED
+	// Category:  Symbol, Other
+	// String:    🧭
+	Compass = '\U0001f9ed'
+
+	// Abacus ABACUS
+	// Codepoint: U+1F9EE
+	// Category:  Symbol, Other
+	// String:    🧮
+	Abacus = '\U0001f9ee'
+
+	// FireExtinguisher FIRE EXTINGUISHER
+	// Codepoint: U+1F9EF
+	// Category:  Symbol, Other
+	// String:    🧯
+	FireExtinguisher = '\U0001f9ef'
+
+	// Toolbox TOOLBOX
+	// Codepoint: U+1F9F0
+	// Category:  Symbol, Other
+	// String:    🧰
+	Toolbox = '\U0001f9f0'
+
+	// Brick BRICK
+	// Codepoint: U+1F9F1
+	// Category:  Symbol, Other
+	// String:    🧱
+	Brick = '\U0001f9f1'
+
+	// Magnet MAGNET
+	// Codepoint: U+1F9F2
+	// Category:  Symbol, Other
+	// String:    🧲
+	Magnet = '\U0001f9f2'
+
+	// Luggage LUGGAGE
+	// Codepoint: U+1F9F3
+	// Category:  Symbol, Other
+	// String:    🧳
+	Luggage = '\U0001f9f3'
+
+	// LotionBottle LOTION BOTTLE
+	// Codepoint: U+1F9F4
+	// Category:  Symbol, Other
+	// String:    🧴
+	LotionBottle = '\U0001f9f4'
+
+	// SpoolOfThread SPOOL OF THREAD
+	// Codepoint: U+1F9F5
+	// Category:  Symbol, Other
+	// String:    🧵
+	SpoolOfThread = '\U0001f9f5'
+
+	// BallOfYarn BALL OF YARN
+	// Codepoint: U+1F9F6
+	// Category:  Symbol, Other
+	// String:    🧶
+	BallOfYarn = '\U0001f9f6'
+
+	// SafetyPin SAFETY PIN
+	// Codepoint: U+1F9F7
+	// Category:  Symbol, Other
+	// String:    🧷
+	SafetyPin = '\U0001f9f7'
+
+	// TeddyBear TEDDY BEAR
+	// Codepoint: U+1F9F8
+	// Category:  Symbol, Other
+	// String:    🧸
+	TeddyBear = '\U0001f9f8'
+
+	// Broom BROOM
+	// Codepoint: U+1F9F9
+	// Category:  Symbol, Other
+	// String:    🧹
+	Broom = '\U0001f9f9'
+
+	// Basket BASKET
+	// Codepoint: U+1F9FA
+	// Category:  Symbol, Other
+	// String:    🧺
+	Basket = '\U0001f9fa'
+
+	// RollOfPaper ROLL OF PAPER
+	// Codepoint: U+1F9FB
+	// Category:  Symbol, Other
+	// String:    🧻
+	RollOfPaper = '\U0001f9fb'
+
+	// BarOfSoap BAR OF SOAP
+	// Codepoint: U+1F9FC
+	// Category:  Symbol, Other
+	// String:    🧼
+	BarOfSoap = '\U0001f9fc'
+
+	// Sponge SPONGE
+	// Codepoint: U+1F9FD
+	// Category:  Symbol, Other
+	// String:    🧽
+	Sponge = '\U0001f9fd'
+
+	// Receipt RECEIPT
+	// Codepoint: U+1F9FE
+	// Category:  Symbol, Other
+	// String:    🧾
+	Receipt = '\U0001f9fe'
+
+	// NazarAmulet NAZAR AMULET
+	// Codepoint: U+1F9FF
+	// Category:  Symbol, Other
+	// String:    🧿
+	NazarAmulet = '\U0001f9ff'
 )

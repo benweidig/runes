@@ -269,6 +269,18 @@ const (
 	// String:    𐨳
 	KharoshthiLetterTttha = '\U00010a33'
 
+	// KharoshthiLetterTtta KHAROSHTHI LETTER TTTA
+	// Codepoint: U+10A34
+	// Category:  Letter, Other
+	// String:    𐨴
+	KharoshthiLetterTtta = '\U00010a34'
+
+	// KharoshthiLetterVha KHAROSHTHI LETTER VHA
+	// Codepoint: U+10A35
+	// Category:  Letter, Other
+	// String:    𐨵
+	KharoshthiLetterVha = '\U00010a35'
+
 	// KharoshthiSignBarAbove KHAROSHTHI SIGN BAR ABOVE
 	// Codepoint: U+10A38
 	// Category:  	Mark, Nonspacing
@@ -340,6 +352,12 @@ const (
 	// Category:  Number, Other
 	// String:    𐩇
 	KharoshthiNumberOneThousand = '\U00010a47'
+
+	// KharoshthiFractionOneHalf KHAROSHTHI FRACTION ONE HALF
+	// Codepoint: U+10A48
+	// Category:  Number, Other
+	// String:    𐩈
+	KharoshthiFractionOneHalf = '\U00010a48'
 
 	// KharoshthiPunctuationDot KHAROSHTHI PUNCTUATION DOT
 	// Codepoint: U+10A50

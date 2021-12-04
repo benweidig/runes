@@ -179,6 +179,12 @@ const (
 	// String:    ؜
 	ArabicLetterMark = '\u061c'
 
+	// ArabicEndOfTextMark ARABIC END OF TEXT MARK
+	// Codepoint: U+061D
+	// Category:  Punctuation, Other
+	// String:    ؝
+	ArabicEndOfTextMark = '\u061d'
+
 	// ArabicTripleDotPunctuationMark ARABIC TRIPLE DOT PUNCTUATION MARK
 	// Codepoint: U+061E
 	// Category:  Punctuation, Other

@@ -497,6 +497,12 @@ const (
 	// String:    ת
 	HebrewLetterTav = '\u05ea'
 
+	// HebrewYodTriangle HEBREW YOD TRIANGLE
+	// Codepoint: U+05EF
+	// Category:  Letter, Other
+	// String:    ׯ
+	HebrewYodTriangle = '\u05ef'
+
 	// HebrewLigatureYiddishDoubleVav HEBREW LIGATURE YIDDISH DOUBLE VAV / HEBREW LETTER DOUBLE VAV
 	// Codepoint: U+05F0
 	// Category:  Letter, Other

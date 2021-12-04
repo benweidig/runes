@@ -461,6 +461,12 @@ const (
 	// String:    ᭋ
 	BalineseLetterAsyuraSasak = '\u1b4b'
 
+	// BalineseLetterArchaicJnya BALINESE LETTER ARCHAIC JNYA
+	// Codepoint: U+1B4C
+	// Category:  Letter, Other
+	// String:    ᭌ
+	BalineseLetterArchaicJnya = '\u1b4c'
+
 	// BalineseDigitZero BALINESE DIGIT ZERO
 	// Codepoint: U+1B50
 	// Category:  	Number, Decimal Digit
@@ -730,4 +736,16 @@ const (
 	// Category:  Symbol, Other
 	// String:    ᭼
 	BalineseMusicalSymbolLeftHandOpenPing = '\u1b7c'
+
+	// BalinesePantiLantang BALINESE PANTI LANTANG
+	// Codepoint: U+1B7D
+	// Category:  Punctuation, Other
+	// String:    ᭽
+	BalinesePantiLantang = '\u1b7d'
+
+	// BalinesePamadaLantang BALINESE PAMADA LANTANG
+	// Codepoint: U+1B7E
+	// Category:  Punctuation, Other
+	// String:    ᭾
+	BalinesePamadaLantang = '\u1b7e'
 )

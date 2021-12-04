@@ -83,6 +83,12 @@ const (
 	// String:    ᜌ
 	TagalogLetterYa = '\u170c'
 
+	// TagalogLetterRa TAGALOG LETTER RA
+	// Codepoint: U+170D
+	// Category:  Letter, Other
+	// String:    ᜍ
+	TagalogLetterRa = '\u170d'
+
 	// TagalogLetterLa TAGALOG LETTER LA
 	// Codepoint: U+170E
 	// Category:  Letter, Other
@@ -124,4 +130,16 @@ const (
 	// Category:  	Mark, Nonspacing
 	// String:    ᜔
 	TagalogSignVirama = '\u1714'
+
+	// TagalogSignPamudpod TAGALOG SIGN PAMUDPOD
+	// Codepoint: U+1715
+	// Category:  	Mark, Spacing Combining
+	// String:    ᜕
+	TagalogSignPamudpod = '\u1715'
+
+	// TagalogLetterArchaicRa TAGALOG LETTER ARCHAIC RA
+	// Codepoint: U+171F
+	// Category:  Letter, Other
+	// String:    ᜟ
+	TagalogLetterArchaicRa = '\u171f'
 )

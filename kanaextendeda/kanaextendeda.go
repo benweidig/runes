@@ -190,4 +190,28 @@ const (
 	// Category:  Letter, Other
 	// String:    𛄞
 	HentaiganaLetterNMuMo2 = '\U0001b11e'
+
+	// HiraganaLetterArchaicWu HIRAGANA LETTER ARCHAIC WU
+	// Codepoint: U+1B11F
+	// Category:  Letter, Other
+	// String:    𛄟
+	HiraganaLetterArchaicWu = '\U0001b11f'
+
+	// KatakanaLetterArchaicYi KATAKANA LETTER ARCHAIC YI
+	// Codepoint: U+1B120
+	// Category:  Letter, Other
+	// String:    𛄠
+	KatakanaLetterArchaicYi = '\U0001b120'
+
+	// KatakanaLetterArchaicYe KATAKANA LETTER ARCHAIC YE
+	// Codepoint: U+1B121
+	// Category:  Letter, Other
+	// String:    𛄡
+	KatakanaLetterArchaicYe = '\U0001b121'
+
+	// KatakanaLetterArchaicWu KATAKANA LETTER ARCHAIC WU
+	// Codepoint: U+1B122
+	// Category:  Letter, Other
+	// String:    𛄢
+	KatakanaLetterArchaicWu = '\U0001b122'
 )

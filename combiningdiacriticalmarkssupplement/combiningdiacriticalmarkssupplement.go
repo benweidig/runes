@@ -353,6 +353,12 @@ const (
 	// String:    ᷹
 	CombiningWideInvertedBridgeBelow = '\u1df9'
 
+	// CombiningDotBelowLeft COMBINING DOT BELOW LEFT
+	// Codepoint: U+1DFA
+	// Category:  	Mark, Nonspacing
+	// String:    ᷺
+	CombiningDotBelowLeft = '\u1dfa'
+
 	// CombiningDeletionMark COMBINING DELETION MARK
 	// Codepoint: U+1DFB
 	// Category:  	Mark, Nonspacing

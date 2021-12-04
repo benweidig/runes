@@ -29,6 +29,12 @@ const (
 	// String:    ಃ
 	KannadaSignVisarga = '\u0c83'
 
+	// KannadaSignSiddham KANNADA SIGN SIDDHAM
+	// Codepoint: U+0C84
+	// Category:  Punctuation, Other
+	// String:    ಄
+	KannadaSignSiddham = '\u0c84'
+
 	// KannadaLetterA KANNADA LETTER A
 	// Codepoint: U+0C85
 	// Category:  Letter, Other
@@ -430,6 +436,12 @@ const (
 	// Category:  	Mark, Spacing Combining
 	// String:    ೖ
 	KannadaAiLengthMark = '\u0cd6'
+
+	// KannadaLetterNakaaraPollu KANNADA LETTER NAKAARA POLLU
+	// Codepoint: U+0CDD
+	// Category:  Letter, Other
+	// String:    ೝ
+	KannadaLetterNakaaraPollu = '\u0cdd'
 
 	// KannadaLetterFa KANNADA LETTER FA
 	// Codepoint: U+0CDE

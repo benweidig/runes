@@ -11,9 +11,9 @@ const (
 	// String:    一
 	U4E00 = '\u4e00'
 
-	// U9FEA <CJK Ideograph, Last>
-	// Codepoint: U+9FEA
+	// U9FFF <CJK Ideograph, Last>
+	// Codepoint: U+9FFF
 	// Category:  Letter, Other
-	// String:    鿪
-	U9FEA = '\u9fea'
+	// String:    鿿
+	U9FFF = '\u9fff'
 )

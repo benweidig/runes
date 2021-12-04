@@ -373,7 +373,7 @@ const (
 
 	// JavaneseConsonantSignKeret JAVANESE CONSONANT SIGN KERET
 	// Codepoint: U+A9BD
-	// Category:  	Mark, Spacing Combining
+	// Category:  	Mark, Nonspacing
 	// String:    ꦽ
 	JavaneseConsonantSignKeret = '\ua9bd'
 

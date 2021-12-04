@@ -448,4 +448,124 @@ const (
 	// Category:  Punctuation, Other
 	// String:    ⹉
 	DoubleStackedComma = '\u2e49'
+
+	// DottedSolidus DOTTED SOLIDUS
+	// Codepoint: U+2E4A
+	// Category:  Punctuation, Other
+	// String:    ⹊
+	DottedSolidus = '\u2e4a'
+
+	// TripleDagger TRIPLE DAGGER
+	// Codepoint: U+2E4B
+	// Category:  Punctuation, Other
+	// String:    ⹋
+	TripleDagger = '\u2e4b'
+
+	// MedievalComma MEDIEVAL COMMA
+	// Codepoint: U+2E4C
+	// Category:  Punctuation, Other
+	// String:    ⹌
+	MedievalComma = '\u2e4c'
+
+	// ParagraphusMark PARAGRAPHUS MARK
+	// Codepoint: U+2E4D
+	// Category:  Punctuation, Other
+	// String:    ⹍
+	ParagraphusMark = '\u2e4d'
+
+	// PunctusElevatusMark PUNCTUS ELEVATUS MARK
+	// Codepoint: U+2E4E
+	// Category:  Punctuation, Other
+	// String:    ⹎
+	PunctusElevatusMark = '\u2e4e'
+
+	// CornishVerseDivider CORNISH VERSE DIVIDER
+	// Codepoint: U+2E4F
+	// Category:  Punctuation, Other
+	// String:    ⹏
+	CornishVerseDivider = '\u2e4f'
+
+	// CrossPattyWithRightCrossbar CROSS PATTY WITH RIGHT CROSSBAR
+	// Codepoint: U+2E50
+	// Category:  Symbol, Other
+	// String:    ⹐
+	CrossPattyWithRightCrossbar = '\u2e50'
+
+	// CrossPattyWithLeftCrossbar CROSS PATTY WITH LEFT CROSSBAR
+	// Codepoint: U+2E51
+	// Category:  Symbol, Other
+	// String:    ⹑
+	CrossPattyWithLeftCrossbar = '\u2e51'
+
+	// TironianSignCapitalEt TIRONIAN SIGN CAPITAL ET
+	// Codepoint: U+2E52
+	// Category:  Punctuation, Other
+	// String:    ⹒
+	TironianSignCapitalEt = '\u2e52'
+
+	// MedievalExclamationMark MEDIEVAL EXCLAMATION MARK
+	// Codepoint: U+2E53
+	// Category:  Punctuation, Other
+	// String:    ⹓
+	MedievalExclamationMark = '\u2e53'
+
+	// MedievalQuestionMark MEDIEVAL QUESTION MARK
+	// Codepoint: U+2E54
+	// Category:  Punctuation, Other
+	// String:    ⹔
+	MedievalQuestionMark = '\u2e54'
+
+	// LeftSquareBracketWithStroke LEFT SQUARE BRACKET WITH STROKE
+	// Codepoint: U+2E55
+	// Category:  Punctuation, Open
+	// String:    ⹕
+	LeftSquareBracketWithStroke = '\u2e55'
+
+	// RightSquareBracketWithStroke RIGHT SQUARE BRACKET WITH STROKE
+	// Codepoint: U+2E56
+	// Category:  Punctuation, Close
+	// String:    ⹖
+	RightSquareBracketWithStroke = '\u2e56'
+
+	// LeftSquareBracketWithDoubleStroke LEFT SQUARE BRACKET WITH DOUBLE STROKE
+	// Codepoint: U+2E57
+	// Category:  Punctuation, Open
+	// String:    ⹗
+	LeftSquareBracketWithDoubleStroke = '\u2e57'
+
+	// RightSquareBracketWithDoubleStroke RIGHT SQUARE BRACKET WITH DOUBLE STROKE
+	// Codepoint: U+2E58
+	// Category:  Punctuation, Close
+	// String:    ⹘
+	RightSquareBracketWithDoubleStroke = '\u2e58'
+
+	// TopHalfLeftParenthesis TOP HALF LEFT PARENTHESIS
+	// Codepoint: U+2E59
+	// Category:  Punctuation, Open
+	// String:    ⹙
+	TopHalfLeftParenthesis = '\u2e59'
+
+	// TopHalfRightParenthesis TOP HALF RIGHT PARENTHESIS
+	// Codepoint: U+2E5A
+	// Category:  Punctuation, Close
+	// String:    ⹚
+	TopHalfRightParenthesis = '\u2e5a'
+
+	// BottomHalfLeftParenthesis BOTTOM HALF LEFT PARENTHESIS
+	// Codepoint: U+2E5B
+	// Category:  Punctuation, Open
+	// String:    ⹛
+	BottomHalfLeftParenthesis = '\u2e5b'
+
+	// BottomHalfRightParenthesis BOTTOM HALF RIGHT PARENTHESIS
+	// Codepoint: U+2E5C
+	// Category:  Punctuation, Close
+	// String:    ⹜
+	BottomHalfRightParenthesis = '\u2e5c'
+
+	// ObliqueHyphen OBLIQUE HYPHEN
+	// Codepoint: U+2E5D
+	// Category:  Punctuation, Dash
+	// String:    ⹝
+	ObliqueHyphen = '\u2e5d'
 )

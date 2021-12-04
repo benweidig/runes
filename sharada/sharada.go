@@ -445,7 +445,7 @@ const (
 
 	// SharadaSandhiMark SHARADA SANDHI MARK
 	// Codepoint: U+111C9
-	// Category:  Punctuation, Other
+	// Category:  	Mark, Nonspacing
 	// String:    𑇉
 	SharadaSandhiMark = '\U000111c9'
 
@@ -472,6 +472,18 @@ const (
 	// Category:  Punctuation, Other
 	// String:    𑇍
 	SharadaSutraMark = '\U000111cd'
+
+	// SharadaVowelSignPrishthamatraE SHARADA VOWEL SIGN PRISHTHAMATRA E
+	// Codepoint: U+111CE
+	// Category:  	Mark, Spacing Combining
+	// String:    𑇎
+	SharadaVowelSignPrishthamatraE = '\U000111ce'
+
+	// SharadaSignInvertedCandrabindu SHARADA SIGN INVERTED CANDRABINDU
+	// Codepoint: U+111CF
+	// Category:  	Mark, Nonspacing
+	// String:    𑇏
+	SharadaSignInvertedCandrabindu = '\U000111cf'
 
 	// SharadaDigitZero SHARADA DIGIT ZERO
 	// Codepoint: U+111D0

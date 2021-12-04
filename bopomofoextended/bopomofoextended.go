@@ -166,4 +166,34 @@ const (
 	// Category:  Letter, Other
 	// String:    ㆺ
 	BopomofoLetterZy = '\u31ba'
+
+	// BopomofoFinalLetterG BOPOMOFO FINAL LETTER G
+	// Codepoint: U+31BB
+	// Category:  Letter, Other
+	// String:    ㆻ
+	BopomofoFinalLetterG = '\u31bb'
+
+	// BopomofoLetterGw BOPOMOFO LETTER GW
+	// Codepoint: U+31BC
+	// Category:  Letter, Other
+	// String:    ㆼ
+	BopomofoLetterGw = '\u31bc'
+
+	// BopomofoLetterKw BOPOMOFO LETTER KW
+	// Codepoint: U+31BD
+	// Category:  Letter, Other
+	// String:    ㆽ
+	BopomofoLetterKw = '\u31bd'
+
+	// BopomofoLetterOe BOPOMOFO LETTER OE
+	// Codepoint: U+31BE
+	// Category:  Letter, Other
+	// String:    ㆾ
+	BopomofoLetterOe = '\u31be'
+
+	// BopomofoLetterAh BOPOMOFO LETTER AH
+	// Codepoint: U+31BF
+	// Category:  Letter, Other
+	// String:    ㆿ
+	BopomofoLetterAh = '\u31bf'
 )

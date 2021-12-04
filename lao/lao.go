@@ -23,6 +23,12 @@ const (
 	// String:    ຄ
 	LaoLetterKhoTam = '\u0e84'
 
+	// LaoLetterPaliGha LAO LETTER PALI GHA
+	// Codepoint: U+0E86
+	// Category:  Letter, Other
+	// String:    ຆ
+	LaoLetterPaliGha = '\u0e86'
+
 	// LaoLetterNgo LAO LETTER NGO
 	// Codepoint: U+0E87
 	// Category:  Letter, Other
@@ -35,17 +41,65 @@ const (
 	// String:    ຈ
 	LaoLetterCo = '\u0e88'
 
+	// LaoLetterPaliCha LAO LETTER PALI CHA
+	// Codepoint: U+0E89
+	// Category:  Letter, Other
+	// String:    ຉ
+	LaoLetterPaliCha = '\u0e89'
+
 	// LaoLetterSoTam LAO LETTER SO TAM
 	// Codepoint: U+0E8A
 	// Category:  Letter, Other
 	// String:    ຊ
 	LaoLetterSoTam = '\u0e8a'
 
+	// LaoLetterPaliJha LAO LETTER PALI JHA
+	// Codepoint: U+0E8C
+	// Category:  Letter, Other
+	// String:    ຌ
+	LaoLetterPaliJha = '\u0e8c'
+
 	// LaoLetterNyo LAO LETTER NYO
 	// Codepoint: U+0E8D
 	// Category:  Letter, Other
 	// String:    ຍ
 	LaoLetterNyo = '\u0e8d'
+
+	// LaoLetterPaliNya LAO LETTER PALI NYA
+	// Codepoint: U+0E8E
+	// Category:  Letter, Other
+	// String:    ຎ
+	LaoLetterPaliNya = '\u0e8e'
+
+	// LaoLetterPaliTta LAO LETTER PALI TTA
+	// Codepoint: U+0E8F
+	// Category:  Letter, Other
+	// String:    ຏ
+	LaoLetterPaliTta = '\u0e8f'
+
+	// LaoLetterPaliTtha LAO LETTER PALI TTHA
+	// Codepoint: U+0E90
+	// Category:  Letter, Other
+	// String:    ຐ
+	LaoLetterPaliTtha = '\u0e90'
+
+	// LaoLetterPaliDda LAO LETTER PALI DDA
+	// Codepoint: U+0E91
+	// Category:  Letter, Other
+	// String:    ຑ
+	LaoLetterPaliDda = '\u0e91'
+
+	// LaoLetterPaliDdha LAO LETTER PALI DDHA
+	// Codepoint: U+0E92
+	// Category:  Letter, Other
+	// String:    ຒ
+	LaoLetterPaliDdha = '\u0e92'
+
+	// LaoLetterPaliNna LAO LETTER PALI NNA
+	// Codepoint: U+0E93
+	// Category:  Letter, Other
+	// String:    ຓ
+	LaoLetterPaliNna = '\u0e93'
 
 	// LaoLetterDo LAO LETTER DO
 	// Codepoint: U+0E94
@@ -70,6 +124,12 @@ const (
 	// Category:  Letter, Other
 	// String:    ທ
 	LaoLetterThoTam = '\u0e97'
+
+	// LaoLetterPaliDha LAO LETTER PALI DHA
+	// Codepoint: U+0E98
+	// Category:  Letter, Other
+	// String:    ຘ
+	LaoLetterPaliDha = '\u0e98'
 
 	// LaoLetterNo LAO LETTER NO
 	// Codepoint: U+0E99
@@ -113,6 +173,12 @@ const (
 	// String:    ຟ
 	LaoLetterFoSung = '\u0e9f'
 
+	// LaoLetterPaliBha LAO LETTER PALI BHA
+	// Codepoint: U+0EA0
+	// Category:  Letter, Other
+	// String:    ຠ
+	LaoLetterPaliBha = '\u0ea0'
+
 	// LaoLetterMo LAO LETTER MO
 	// Codepoint: U+0EA1
 	// Category:  Letter, Other
@@ -143,6 +209,18 @@ const (
 	// String:    ວ
 	LaoLetterWo = '\u0ea7'
 
+	// LaoLetterSanskritSha LAO LETTER SANSKRIT SHA
+	// Codepoint: U+0EA8
+	// Category:  Letter, Other
+	// String:    ຨ
+	LaoLetterSanskritSha = '\u0ea8'
+
+	// LaoLetterSanskritSsa LAO LETTER SANSKRIT SSA
+	// Codepoint: U+0EA9
+	// Category:  Letter, Other
+	// String:    ຩ
+	LaoLetterSanskritSsa = '\u0ea9'
+
 	// LaoLetterSoSung LAO LETTER SO SUNG
 	// Codepoint: U+0EAA
 	// Category:  Letter, Other
@@ -154,6 +232,12 @@ const (
 	// Category:  Letter, Other
 	// String:    ຫ
 	LaoLetterHoSung = '\u0eab'
+
+	// LaoLetterPaliLla LAO LETTER PALI LLA
+	// Codepoint: U+0EAC
+	// Category:  Letter, Other
+	// String:    ຬ
+	LaoLetterPaliLla = '\u0eac'
 
 	// LaoLetterO LAO LETTER O
 	// Codepoint: U+0EAD
@@ -232,6 +316,12 @@ const (
 	// Category:  	Mark, Nonspacing
 	// String:    ູ
 	LaoVowelSignUu = '\u0eb9'
+
+	// LaoSignPaliVirama LAO SIGN PALI VIRAMA
+	// Codepoint: U+0EBA
+	// Category:  	Mark, Nonspacing
+	// String:    ຺
+	LaoSignPaliVirama = '\u0eba'
 
 	// LaoVowelSignMaiKon LAO VOWEL SIGN MAI KON
 	// Codepoint: U+0EBB

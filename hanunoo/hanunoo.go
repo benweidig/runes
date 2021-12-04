@@ -127,7 +127,7 @@ const (
 
 	// HanunooSignPamudpod HANUNOO SIGN PAMUDPOD
 	// Codepoint: U+1734
-	// Category:  	Mark, Nonspacing
+	// Category:  	Mark, Spacing Combining
 	// String:    ᜴
 	HanunooSignPamudpod = '\u1734'
 

@@ -1390,4 +1390,16 @@ const (
 	// Category:  Symbol, Other
 	// String:    𝇨
 	MusicalSymbolKievanFlatSign = '\U0001d1e8'
+
+	// MusicalSymbolSori MUSICAL SYMBOL SORI
+	// Codepoint: U+1D1E9
+	// Category:  Symbol, Other
+	// String:    𝇩
+	MusicalSymbolSori = '\U0001d1e9'
+
+	// MusicalSymbolKoron MUSICAL SYMBOL KORON
+	// Codepoint: U+1D1EA
+	// Category:  Symbol, Other
+	// String:    𝇪
+	MusicalSymbolKoron = '\U0001d1ea'
 )

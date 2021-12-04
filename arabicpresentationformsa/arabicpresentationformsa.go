@@ -689,6 +689,12 @@ const (
 	// String:    ﯁
 	ArabicSymbolSmallTahBelow = '\ufbc1'
 
+	// ArabicSymbolWaslaAbove ARABIC SYMBOL WASLA ABOVE
+	// Codepoint: U+FBC2
+	// Category:  Symbol, Modifier
+	// String:    ﯂
+	ArabicSymbolWaslaAbove = '\ufbc2'
+
 	// ArabicLetterNgIsolatedForm ARABIC LETTER NG ISOLATED FORM
 	// Codepoint: U+FBD3
 	// Category:  Letter, Other
@@ -2879,6 +2885,102 @@ const (
 	// String:    ﴿
 	OrnateRightParenthesis = '\ufd3f'
 
+	// ArabicLigatureRahimahuAllaah ARABIC LIGATURE RAHIMAHU ALLAAH
+	// Codepoint: U+FD40
+	// Category:  Symbol, Other
+	// String:    ﵀
+	ArabicLigatureRahimahuAllaah = '\ufd40'
+
+	// ArabicLigatureRadiAllaahuAnh ARABIC LIGATURE RADI ALLAAHU ANH
+	// Codepoint: U+FD41
+	// Category:  Symbol, Other
+	// String:    ﵁
+	ArabicLigatureRadiAllaahuAnh = '\ufd41'
+
+	// ArabicLigatureRadiAllaahuAnhaa ARABIC LIGATURE RADI ALLAAHU ANHAA
+	// Codepoint: U+FD42
+	// Category:  Symbol, Other
+	// String:    ﵂
+	ArabicLigatureRadiAllaahuAnhaa = '\ufd42'
+
+	// ArabicLigatureRadiAllaahuAnhum ARABIC LIGATURE RADI ALLAAHU ANHUM
+	// Codepoint: U+FD43
+	// Category:  Symbol, Other
+	// String:    ﵃
+	ArabicLigatureRadiAllaahuAnhum = '\ufd43'
+
+	// ArabicLigatureRadiAllaahuAnhumaa ARABIC LIGATURE RADI ALLAAHU ANHUMAA
+	// Codepoint: U+FD44
+	// Category:  Symbol, Other
+	// String:    ﵄
+	ArabicLigatureRadiAllaahuAnhumaa = '\ufd44'
+
+	// ArabicLigatureRadiAllaahuAnhunna ARABIC LIGATURE RADI ALLAAHU ANHUNNA
+	// Codepoint: U+FD45
+	// Category:  Symbol, Other
+	// String:    ﵅
+	ArabicLigatureRadiAllaahuAnhunna = '\ufd45'
+
+	// ArabicLigatureSallallaahuAlayhiWaAalih ARABIC LIGATURE SALLALLAAHU ALAYHI WA-AALIH
+	// Codepoint: U+FD46
+	// Category:  Symbol, Other
+	// String:    ﵆
+	ArabicLigatureSallallaahuAlayhiWaAalih = '\ufd46'
+
+	// ArabicLigatureAlayhiAsSalaam ARABIC LIGATURE ALAYHI AS-SALAAM
+	// Codepoint: U+FD47
+	// Category:  Symbol, Other
+	// String:    ﵇
+	ArabicLigatureAlayhiAsSalaam = '\ufd47'
+
+	// ArabicLigatureAlayhimAsSalaam ARABIC LIGATURE ALAYHIM AS-SALAAM
+	// Codepoint: U+FD48
+	// Category:  Symbol, Other
+	// String:    ﵈
+	ArabicLigatureAlayhimAsSalaam = '\ufd48'
+
+	// ArabicLigatureAlayhimaaAsSalaam ARABIC LIGATURE ALAYHIMAA AS-SALAAM
+	// Codepoint: U+FD49
+	// Category:  Symbol, Other
+	// String:    ﵉
+	ArabicLigatureAlayhimaaAsSalaam = '\ufd49'
+
+	// ArabicLigatureAlayhiAsSalaatuWasSalaam ARABIC LIGATURE ALAYHI AS-SALAATU WAS-SALAAM
+	// Codepoint: U+FD4A
+	// Category:  Symbol, Other
+	// String:    ﵊
+	ArabicLigatureAlayhiAsSalaatuWasSalaam = '\ufd4a'
+
+	// ArabicLigatureQuddisaSirrah ARABIC LIGATURE QUDDISA SIRRAH
+	// Codepoint: U+FD4B
+	// Category:  Symbol, Other
+	// String:    ﵋
+	ArabicLigatureQuddisaSirrah = '\ufd4b'
+
+	// ArabicLigatureSallallahuAlayhiWaaaliheeWaSallam ARABIC LIGATURE SALLALLAHU ALAYHI WAAALIHEE WA-SALLAM
+	// Codepoint: U+FD4C
+	// Category:  Symbol, Other
+	// String:    ﵌
+	ArabicLigatureSallallahuAlayhiWaaaliheeWaSallam = '\ufd4c'
+
+	// ArabicLigatureAlayhaaAsSalaam ARABIC LIGATURE ALAYHAA AS-SALAAM
+	// Codepoint: U+FD4D
+	// Category:  Symbol, Other
+	// String:    ﵍
+	ArabicLigatureAlayhaaAsSalaam = '\ufd4d'
+
+	// ArabicLigatureTabaarakaWaTaaalaa ARABIC LIGATURE TABAARAKA WA-TAAALAA
+	// Codepoint: U+FD4E
+	// Category:  Symbol, Other
+	// String:    ﵎
+	ArabicLigatureTabaarakaWaTaaalaa = '\ufd4e'
+
+	// ArabicLigatureRahimahumAllaah ARABIC LIGATURE RAHIMAHUM ALLAAH
+	// Codepoint: U+FD4F
+	// Category:  Symbol, Other
+	// String:    ﵏
+	ArabicLigatureRahimahumAllaah = '\ufd4f'
+
 	// ArabicLigatureTehWithJeemWithMeemInitialForm ARABIC LIGATURE TEH WITH JEEM WITH MEEM INITIAL FORM
 	// Codepoint: U+FD50
 	// Category:  Letter, Other
@@ -3587,6 +3689,12 @@ const (
 	// String:    ﷇ
 	ArabicLigatureNoonWithJeemWithYehFinalForm = '\ufdc7'
 
+	// ArabicLigatureSalaamuhuAlaynaa ARABIC LIGATURE SALAAMUHU ALAYNAA
+	// Codepoint: U+FDCF
+	// Category:  Symbol, Other
+	// String:    ﷏
+	ArabicLigatureSalaamuhuAlaynaa = '\ufdcf'
+
 	// ArabicLigatureSallaUsedAsKoranicStopSignIsolatedForm ARABIC LIGATURE SALLA USED AS KORANIC STOP SIGN ISOLATED FORM
 	// Codepoint: U+FDF0
 	// Category:  Letter, Other
@@ -3670,4 +3778,16 @@ const (
 	// Category:  Symbol, Other
 	// String:    ﷽
 	ArabicLigatureBismillahArRahmanArRaheem = '\ufdfd'
+
+	// ArabicLigatureSubhaanahuWaTaaalaa ARABIC LIGATURE SUBHAANAHU WA TAAALAA
+	// Codepoint: U+FDFE
+	// Category:  Symbol, Other
+	// String:    ﷾
+	ArabicLigatureSubhaanahuWaTaaalaa = '\ufdfe'
+
+	// ArabicLigatureAzzaWaJall ARABIC LIGATURE AZZA WA JALL
+	// Codepoint: U+FDFF
+	// Category:  Symbol, Other
+	// String:    ﷿
+	ArabicLigatureAzzaWaJall = '\ufdff'
 )

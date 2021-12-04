@@ -11,9 +11,9 @@ const (
 	// String:    𗀀
 	U17000 = '\U00017000'
 
-	// U187EC <Tangut Ideograph, Last>
-	// Codepoint: U+187EC
+	// U187F7 <Tangut Ideograph, Last>
+	// Codepoint: U+187F7
 	// Category:  Letter, Other
-	// String:    𘟬
-	U187EC = '\U000187ec'
+	// String:    𘟷
+	U187F7 = '\U000187f7'
 )

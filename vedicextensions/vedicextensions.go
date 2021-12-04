@@ -211,13 +211,13 @@ const (
 
 	// VedicSignArdhavisarga VEDIC SIGN ARDHAVISARGA
 	// Codepoint: U+1CF2
-	// Category:  	Mark, Spacing Combining
+	// Category:  Letter, Other
 	// String:    ᳲ
 	VedicSignArdhavisarga = '\u1cf2'
 
 	// VedicSignRotatedArdhavisarga VEDIC SIGN ROTATED ARDHAVISARGA
 	// Codepoint: U+1CF3
-	// Category:  	Mark, Spacing Combining
+	// Category:  Letter, Other
 	// String:    ᳳ
 	VedicSignRotatedArdhavisarga = '\u1cf3'
 
@@ -256,4 +256,10 @@ const (
 	// Category:  	Mark, Nonspacing
 	// String:    ᳹
 	VedicToneDoubleRingAbove = '\u1cf9'
+
+	// VedicSignDoubleAnusvaraAntargomukha VEDIC SIGN DOUBLE ANUSVARA ANTARGOMUKHA
+	// Codepoint: U+1CFA
+	// Category:  Letter, Other
+	// String:    ᳺ
+	VedicSignDoubleAnusvaraAntargomukha = '\u1cfa'
 )

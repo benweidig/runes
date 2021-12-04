@@ -317,6 +317,18 @@ const (
 	// String:    𑪃
 	SoyomboLetterKssa = '\U00011a83'
 
+	// SoyomboSignJihvamuliya SOYOMBO SIGN JIHVAMULIYA
+	// Codepoint: U+11A84
+	// Category:  Letter, Other
+	// String:    𑪄
+	SoyomboSignJihvamuliya = '\U00011a84'
+
+	// SoyomboSignUpadhmaniya SOYOMBO SIGN UPADHMANIYA
+	// Codepoint: U+11A85
+	// Category:  Letter, Other
+	// String:    𑪅
+	SoyomboSignUpadhmaniya = '\U00011a85'
+
 	// SoyomboClusterInitialLetterRa SOYOMBO CLUSTER-INITIAL LETTER RA
 	// Codepoint: U+11A86
 	// Category:  Letter, Other
@@ -454,6 +466,12 @@ const (
 	// Category:  Punctuation, Other
 	// String:    𑪜
 	SoyomboMarkDoubleShad = '\U00011a9c'
+
+	// SoyomboMarkPluta SOYOMBO MARK PLUTA
+	// Codepoint: U+11A9D
+	// Category:  Letter, Other
+	// String:    𑪝
+	SoyomboMarkPluta = '\U00011a9d'
 
 	// SoyomboHeadMarkWithMoonAndSunAndTripleFlame SOYOMBO HEAD MARK WITH MOON AND SUN AND TRIPLE FLAME
 	// Codepoint: U+11A9E

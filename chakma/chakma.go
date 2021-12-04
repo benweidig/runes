@@ -406,4 +406,28 @@ const (
 	// Category:  Punctuation, Other
 	// String:    𑅃
 	ChakmaQuestionMark = '\U00011143'
+
+	// ChakmaLetterLhaa CHAKMA LETTER LHAA
+	// Codepoint: U+11144
+	// Category:  Letter, Other
+	// String:    𑅄
+	ChakmaLetterLhaa = '\U00011144'
+
+	// ChakmaVowelSignAa CHAKMA VOWEL SIGN AA
+	// Codepoint: U+11145
+	// Category:  	Mark, Spacing Combining
+	// String:    𑅅
+	ChakmaVowelSignAa = '\U00011145'
+
+	// ChakmaVowelSignEi CHAKMA VOWEL SIGN EI
+	// Codepoint: U+11146
+	// Category:  	Mark, Spacing Combining
+	// String:    𑅆
+	ChakmaVowelSignEi = '\U00011146'
+
+	// ChakmaLetterVaa CHAKMA LETTER VAA
+	// Codepoint: U+11147
+	// Category:  Letter, Other
+	// String:    𑅇
+	ChakmaLetterVaa = '\U00011147'
 )

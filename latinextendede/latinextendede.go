@@ -328,4 +328,40 @@ const (
 	// Category:  Letter, Lowercase
 	// String:    ꭥ
 	GreekLetterSmallCapitalOmega = '\uab65'
+
+	// LatinSmallLetterDzDigraphWithRetroflexHook LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK
+	// Codepoint: U+AB66
+	// Category:  Letter, Lowercase
+	// String:    ꭦ
+	LatinSmallLetterDzDigraphWithRetroflexHook = '\uab66'
+
+	// LatinSmallLetterTsDigraphWithRetroflexHook LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK
+	// Codepoint: U+AB67
+	// Category:  Letter, Lowercase
+	// String:    ꭧ
+	LatinSmallLetterTsDigraphWithRetroflexHook = '\uab67'
+
+	// LatinSmallLetterTurnedRWithMiddleTilde LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
+	// Codepoint: U+AB68
+	// Category:  Letter, Lowercase
+	// String:    ꭨ
+	LatinSmallLetterTurnedRWithMiddleTilde = '\uab68'
+
+	// ModifierLetterSmallTurnedW MODIFIER LETTER SMALL TURNED W
+	// Codepoint: U+AB69
+	// Category:  Letter, Modifier
+	// String:    ꭩ
+	ModifierLetterSmallTurnedW = '\uab69'
+
+	// ModifierLetterLeftTack MODIFIER LETTER LEFT TACK
+	// Codepoint: U+AB6A
+	// Category:  Symbol, Modifier
+	// String:    ꭪
+	ModifierLetterLeftTack = '\uab6a'
+
+	// ModifierLetterRightTack MODIFIER LETTER RIGHT TACK
+	// Codepoint: U+AB6B
+	// Category:  Symbol, Modifier
+	// String:    ꭫
+	ModifierLetterRightTack = '\uab6b'
 )

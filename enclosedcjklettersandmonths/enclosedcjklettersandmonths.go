@@ -1528,4 +1528,10 @@ const (
 	// Category:  Symbol, Other
 	// String:    ㋾
 	CircledKatakanaWo = '\u32fe'
+
+	// SquareEraNameReiwa SQUARE ERA NAME REIWA
+	// Codepoint: U+32FF
+	// Category:  Symbol, Other
+	// String:    ㋿
+	SquareEraNameReiwa = '\u32ff'
 )

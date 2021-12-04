@@ -455,6 +455,12 @@ const (
 	// String:    𞥊
 	AdlamNukta = '\U0001e94a'
 
+	// AdlamNasalizationMark ADLAM NASALIZATION MARK
+	// Codepoint: U+1E94B
+	// Category:  Letter, Modifier
+	// String:    𞥋
+	AdlamNasalizationMark = '\U0001e94b'
+
 	// AdlamDigitZero ADLAM DIGIT ZERO
 	// Codepoint: U+1E950
 	// Category:  	Number, Decimal Digit

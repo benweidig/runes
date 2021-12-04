@@ -341,6 +341,18 @@ const (
 	// String:    𑚷
 	TakriSignNukta = '\U000116b7'
 
+	// TakriLetterArchaicKha TAKRI LETTER ARCHAIC KHA
+	// Codepoint: U+116B8
+	// Category:  Letter, Other
+	// String:    𑚸
+	TakriLetterArchaicKha = '\U000116b8'
+
+	// TakriAbbreviationSign TAKRI ABBREVIATION SIGN
+	// Codepoint: U+116B9
+	// Category:  Punctuation, Other
+	// String:    𑚹
+	TakriAbbreviationSign = '\U000116b9'
+
 	// TakriDigitZero TAKRI DIGIT ZERO
 	// Codepoint: U+116C0
 	// Category:  	Number, Decimal Digit

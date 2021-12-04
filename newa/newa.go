@@ -545,6 +545,12 @@ const (
 	// String:    𑑙
 	NewaDigitNine = '\U00011459'
 
+	// NewaDoubleComma NEWA DOUBLE COMMA
+	// Codepoint: U+1145A
+	// Category:  Punctuation, Other
+	// String:    𑑚
+	NewaDoubleComma = '\U0001145a'
+
 	// NewaPlaceholderMark NEWA PLACEHOLDER MARK
 	// Codepoint: U+1145B
 	// Category:  Punctuation, Other
@@ -556,4 +562,28 @@ const (
 	// Category:  Punctuation, Other
 	// String:    𑑝
 	NewaInsertionSign = '\U0001145d'
+
+	// NewaSandhiMark NEWA SANDHI MARK
+	// Codepoint: U+1145E
+	// Category:  	Mark, Nonspacing
+	// String:    𑑞
+	NewaSandhiMark = '\U0001145e'
+
+	// NewaLetterVedicAnusvara NEWA LETTER VEDIC ANUSVARA
+	// Codepoint: U+1145F
+	// Category:  Letter, Other
+	// String:    𑑟
+	NewaLetterVedicAnusvara = '\U0001145f'
+
+	// NewaSignJihvamuliya NEWA SIGN JIHVAMULIYA
+	// Codepoint: U+11460
+	// Category:  Letter, Other
+	// String:    𑑠
+	NewaSignJihvamuliya = '\U00011460'
+
+	// NewaSignUpadhmaniya NEWA SIGN UPADHMANIYA
+	// Codepoint: U+11461
+	// Category:  Letter, Other
+	// String:    𑑡
+	NewaSignUpadhmaniya = '\U00011461'
 )

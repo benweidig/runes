@@ -131,6 +131,12 @@ const (
 	// String:    ࢴ
 	ArabicLetterKafWithDotBelow = '\u08b4'
 
+	// ArabicLetterQafWithDotBelowAndNoDotsAbove ARABIC LETTER QAF WITH DOT BELOW AND NO DOTS ABOVE
+	// Codepoint: U+08B5
+	// Category:  Letter, Other
+	// String:    ࢵ
+	ArabicLetterQafWithDotBelowAndNoDotsAbove = '\u08b5'
+
 	// ArabicLetterBehWithSmallMeemAbove ARABIC LETTER BEH WITH SMALL MEEM ABOVE
 	// Codepoint: U+08B6
 	// Category:  Letter, Other
@@ -178,6 +184,138 @@ const (
 	// Category:  Letter, Other
 	// String:    ࢽ
 	ArabicLetterAfricanNoon = '\u08bd'
+
+	// ArabicLetterPehWithSmallV ARABIC LETTER PEH WITH SMALL V
+	// Codepoint: U+08BE
+	// Category:  Letter, Other
+	// String:    ࢾ
+	ArabicLetterPehWithSmallV = '\u08be'
+
+	// ArabicLetterTehWithSmallV ARABIC LETTER TEH WITH SMALL V
+	// Codepoint: U+08BF
+	// Category:  Letter, Other
+	// String:    ࢿ
+	ArabicLetterTehWithSmallV = '\u08bf'
+
+	// ArabicLetterTtehWithSmallV ARABIC LETTER TTEH WITH SMALL V
+	// Codepoint: U+08C0
+	// Category:  Letter, Other
+	// String:    ࣀ
+	ArabicLetterTtehWithSmallV = '\u08c0'
+
+	// ArabicLetterTchehWithSmallV ARABIC LETTER TCHEH WITH SMALL V
+	// Codepoint: U+08C1
+	// Category:  Letter, Other
+	// String:    ࣁ
+	ArabicLetterTchehWithSmallV = '\u08c1'
+
+	// ArabicLetterKehehWithSmallV ARABIC LETTER KEHEH WITH SMALL V
+	// Codepoint: U+08C2
+	// Category:  Letter, Other
+	// String:    ࣂ
+	ArabicLetterKehehWithSmallV = '\u08c2'
+
+	// ArabicLetterGhainWithThreeDotsAbove ARABIC LETTER GHAIN WITH THREE DOTS ABOVE
+	// Codepoint: U+08C3
+	// Category:  Letter, Other
+	// String:    ࣃ
+	ArabicLetterGhainWithThreeDotsAbove = '\u08c3'
+
+	// ArabicLetterAfricanQafWithThreeDotsAbove ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE
+	// Codepoint: U+08C4
+	// Category:  Letter, Other
+	// String:    ࣄ
+	ArabicLetterAfricanQafWithThreeDotsAbove = '\u08c4'
+
+	// ArabicLetterJeemWithThreeDotsAbove ARABIC LETTER JEEM WITH THREE DOTS ABOVE
+	// Codepoint: U+08C5
+	// Category:  Letter, Other
+	// String:    ࣅ
+	ArabicLetterJeemWithThreeDotsAbove = '\u08c5'
+
+	// ArabicLetterJeemWithThreeDotsBelow ARABIC LETTER JEEM WITH THREE DOTS BELOW
+	// Codepoint: U+08C6
+	// Category:  Letter, Other
+	// String:    ࣆ
+	ArabicLetterJeemWithThreeDotsBelow = '\u08c6'
+
+	// ArabicLetterLamWithSmallArabicLetterTahAbove ARABIC LETTER LAM WITH SMALL ARABIC LETTER TAH ABOVE
+	// Codepoint: U+08C7
+	// Category:  Letter, Other
+	// String:    ࣇ
+	ArabicLetterLamWithSmallArabicLetterTahAbove = '\u08c7'
+
+	// ArabicLetterGraf ARABIC LETTER GRAF
+	// Codepoint: U+08C8
+	// Category:  Letter, Other
+	// String:    ࣈ
+	ArabicLetterGraf = '\u08c8'
+
+	// ArabicSmallFarsiYeh ARABIC SMALL FARSI YEH
+	// Codepoint: U+08C9
+	// Category:  Letter, Modifier
+	// String:    ࣉ
+	ArabicSmallFarsiYeh = '\u08c9'
+
+	// ArabicSmallHighFarsiYeh ARABIC SMALL HIGH FARSI YEH
+	// Codepoint: U+08CA
+	// Category:  	Mark, Nonspacing
+	// String:    ࣊
+	ArabicSmallHighFarsiYeh = '\u08ca'
+
+	// ArabicSmallHighYehBarreeWithTwoDotsBelow ARABIC SMALL HIGH YEH BARREE WITH TWO DOTS BELOW
+	// Codepoint: U+08CB
+	// Category:  	Mark, Nonspacing
+	// String:    ࣋
+	ArabicSmallHighYehBarreeWithTwoDotsBelow = '\u08cb'
+
+	// ArabicSmallHighWordSah ARABIC SMALL HIGH WORD SAH
+	// Codepoint: U+08CC
+	// Category:  	Mark, Nonspacing
+	// String:    ࣌
+	ArabicSmallHighWordSah = '\u08cc'
+
+	// ArabicSmallHighZah ARABIC SMALL HIGH ZAH
+	// Codepoint: U+08CD
+	// Category:  	Mark, Nonspacing
+	// String:    ࣍
+	ArabicSmallHighZah = '\u08cd'
+
+	// ArabicLargeRoundDotAbove ARABIC LARGE ROUND DOT ABOVE
+	// Codepoint: U+08CE
+	// Category:  	Mark, Nonspacing
+	// String:    ࣎
+	ArabicLargeRoundDotAbove = '\u08ce'
+
+	// ArabicLargeRoundDotBelow ARABIC LARGE ROUND DOT BELOW
+	// Codepoint: U+08CF
+	// Category:  	Mark, Nonspacing
+	// String:    ࣏
+	ArabicLargeRoundDotBelow = '\u08cf'
+
+	// ArabicSukunBelow ARABIC SUKUN BELOW
+	// Codepoint: U+08D0
+	// Category:  	Mark, Nonspacing
+	// String:    ࣐
+	ArabicSukunBelow = '\u08d0'
+
+	// ArabicLargeCircleBelow ARABIC LARGE CIRCLE BELOW
+	// Codepoint: U+08D1
+	// Category:  	Mark, Nonspacing
+	// String:    ࣑
+	ArabicLargeCircleBelow = '\u08d1'
+
+	// ArabicLargeRoundDotInsideCircleBelow ARABIC LARGE ROUND DOT INSIDE CIRCLE BELOW
+	// Codepoint: U+08D2
+	// Category:  	Mark, Nonspacing
+	// String:    ࣒
+	ArabicLargeRoundDotInsideCircleBelow = '\u08d2'
+
+	// ArabicSmallLowWaw ARABIC SMALL LOW WAW
+	// Codepoint: U+08D3
+	// Category:  	Mark, Nonspacing
+	// String:    ࣓
+	ArabicSmallLowWaw = '\u08d3'
 
 	// ArabicSmallHighWordArRub ARABIC SMALL HIGH WORD AR-RUB
 	// Codepoint: U+08D4

@@ -383,6 +383,12 @@ const (
 	// String:    ୍
 	OriyaSignVirama = '\u0b4d'
 
+	// OriyaSignOverline ORIYA SIGN OVERLINE
+	// Codepoint: U+0B55
+	// Category:  	Mark, Nonspacing
+	// String:    ୕
+	OriyaSignOverline = '\u0b55'
+
 	// OriyaAiLengthMark ORIYA AI LENGTH MARK
 	// Codepoint: U+0B56
 	// Category:  	Mark, Nonspacing

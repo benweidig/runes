@@ -653,6 +653,42 @@ const (
 	// String:    𑁯
 	BrahmiDigitNine = '\U0001106f'
 
+	// BrahmiSignOldTamilVirama BRAHMI SIGN OLD TAMIL VIRAMA
+	// Codepoint: U+11070
+	// Category:  	Mark, Nonspacing
+	// String:    𑁰
+	BrahmiSignOldTamilVirama = '\U00011070'
+
+	// BrahmiLetterOldTamilShortE BRAHMI LETTER OLD TAMIL SHORT E
+	// Codepoint: U+11071
+	// Category:  Letter, Other
+	// String:    𑁱
+	BrahmiLetterOldTamilShortE = '\U00011071'
+
+	// BrahmiLetterOldTamilShortO BRAHMI LETTER OLD TAMIL SHORT O
+	// Codepoint: U+11072
+	// Category:  Letter, Other
+	// String:    𑁲
+	BrahmiLetterOldTamilShortO = '\U00011072'
+
+	// BrahmiVowelSignOldTamilShortE BRAHMI VOWEL SIGN OLD TAMIL SHORT E
+	// Codepoint: U+11073
+	// Category:  	Mark, Nonspacing
+	// String:    𑁳
+	BrahmiVowelSignOldTamilShortE = '\U00011073'
+
+	// BrahmiVowelSignOldTamilShortO BRAHMI VOWEL SIGN OLD TAMIL SHORT O
+	// Codepoint: U+11074
+	// Category:  	Mark, Nonspacing
+	// String:    𑁴
+	BrahmiVowelSignOldTamilShortO = '\U00011074'
+
+	// BrahmiLetterOldTamilLla BRAHMI LETTER OLD TAMIL LLA
+	// Codepoint: U+11075
+	// Category:  Letter, Other
+	// String:    𑁵
+	BrahmiLetterOldTamilLla = '\U00011075'
+
 	// BrahmiNumberJoiner BRAHMI NUMBER JOINER
 	// Codepoint: U+1107F
 	// Category:  	Mark, Nonspacing

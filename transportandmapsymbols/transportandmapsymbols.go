@@ -515,6 +515,42 @@ const (
 	// String:    🛔
 	Pagoda = '\U0001f6d4'
 
+	// HinduTemple HINDU TEMPLE
+	// Codepoint: U+1F6D5
+	// Category:  Symbol, Other
+	// String:    🛕
+	HinduTemple = '\U0001f6d5'
+
+	// Hut HUT
+	// Codepoint: U+1F6D6
+	// Category:  Symbol, Other
+	// String:    🛖
+	Hut = '\U0001f6d6'
+
+	// Elevator ELEVATOR
+	// Codepoint: U+1F6D7
+	// Category:  Symbol, Other
+	// String:    🛗
+	Elevator = '\U0001f6d7'
+
+	// PlaygroundSlide PLAYGROUND SLIDE
+	// Codepoint: U+1F6DD
+	// Category:  Symbol, Other
+	// String:    🛝
+	PlaygroundSlide = '\U0001f6dd'
+
+	// Wheel WHEEL
+	// Codepoint: U+1F6DE
+	// Category:  Symbol, Other
+	// String:    🛞
+	Wheel = '\U0001f6de'
+
+	// RingBuoy RING BUOY
+	// Codepoint: U+1F6DF
+	// Category:  Symbol, Other
+	// String:    🛟
+	RingBuoy = '\U0001f6df'
+
 	// HammerAndWrench HAMMER AND WRENCH
 	// Codepoint: U+1F6E0
 	// Category:  Symbol, Other
@@ -646,4 +682,28 @@ const (
 	// Category:  Symbol, Other
 	// String:    🛸
 	FlyingSaucer = '\U0001f6f8'
+
+	// Skateboard SKATEBOARD
+	// Codepoint: U+1F6F9
+	// Category:  Symbol, Other
+	// String:    🛹
+	Skateboard = '\U0001f6f9'
+
+	// AutoRickshaw AUTO RICKSHAW
+	// Codepoint: U+1F6FA
+	// Category:  Symbol, Other
+	// String:    🛺
+	AutoRickshaw = '\U0001f6fa'
+
+	// PickupTruck PICKUP TRUCK
+	// Codepoint: U+1F6FB
+	// Category:  Symbol, Other
+	// String:    🛻
+	PickupTruck = '\U0001f6fb'
+
+	// RollerSkate ROLLER SKATE
+	// Codepoint: U+1F6FC
+	// Category:  Symbol, Other
+	// String:    🛼
+	RollerSkate = '\U0001f6fc'
 )

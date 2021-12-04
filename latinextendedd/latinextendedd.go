@@ -863,6 +863,12 @@ const (
 	// String:    Ɪ
 	LatinCapitalLetterSmallCapitalI = '\ua7ae'
 
+	// LatinLetterSmallCapitalQ LATIN LETTER SMALL CAPITAL Q
+	// Codepoint: U+A7AF
+	// Category:  Letter, Lowercase
+	// String:    ꞯ
+	LatinLetterSmallCapitalQ = '\ua7af'
+
 	// LatinCapitalLetterTurnedK LATIN CAPITAL LETTER TURNED K
 	// Codepoint: U+A7B0
 	// Category:  Letter, Uppercase
@@ -910,6 +916,198 @@ const (
 	// Category:  Letter, Lowercase
 	// String:    ꞷ
 	LatinSmallLetterOmega = '\ua7b7'
+
+	// LatinCapitalLetterUWithStroke LATIN CAPITAL LETTER U WITH STROKE
+	// Codepoint: U+A7B8
+	// Category:  Letter, Uppercase
+	// String:    Ꞹ
+	LatinCapitalLetterUWithStroke = '\ua7b8'
+
+	// LatinSmallLetterUWithStroke LATIN SMALL LETTER U WITH STROKE
+	// Codepoint: U+A7B9
+	// Category:  Letter, Lowercase
+	// String:    ꞹ
+	LatinSmallLetterUWithStroke = '\ua7b9'
+
+	// LatinCapitalLetterGlottalA LATIN CAPITAL LETTER GLOTTAL A
+	// Codepoint: U+A7BA
+	// Category:  Letter, Uppercase
+	// String:    Ꞻ
+	LatinCapitalLetterGlottalA = '\ua7ba'
+
+	// LatinSmallLetterGlottalA LATIN SMALL LETTER GLOTTAL A
+	// Codepoint: U+A7BB
+	// Category:  Letter, Lowercase
+	// String:    ꞻ
+	LatinSmallLetterGlottalA = '\ua7bb'
+
+	// LatinCapitalLetterGlottalI LATIN CAPITAL LETTER GLOTTAL I
+	// Codepoint: U+A7BC
+	// Category:  Letter, Uppercase
+	// String:    Ꞽ
+	LatinCapitalLetterGlottalI = '\ua7bc'
+
+	// LatinSmallLetterGlottalI LATIN SMALL LETTER GLOTTAL I
+	// Codepoint: U+A7BD
+	// Category:  Letter, Lowercase
+	// String:    ꞽ
+	LatinSmallLetterGlottalI = '\ua7bd'
+
+	// LatinCapitalLetterGlottalU LATIN CAPITAL LETTER GLOTTAL U
+	// Codepoint: U+A7BE
+	// Category:  Letter, Uppercase
+	// String:    Ꞿ
+	LatinCapitalLetterGlottalU = '\ua7be'
+
+	// LatinSmallLetterGlottalU LATIN SMALL LETTER GLOTTAL U
+	// Codepoint: U+A7BF
+	// Category:  Letter, Lowercase
+	// String:    ꞿ
+	LatinSmallLetterGlottalU = '\ua7bf'
+
+	// LatinCapitalLetterOldPolishO LATIN CAPITAL LETTER OLD POLISH O
+	// Codepoint: U+A7C0
+	// Category:  Letter, Uppercase
+	// String:    Ꟁ
+	LatinCapitalLetterOldPolishO = '\ua7c0'
+
+	// LatinSmallLetterOldPolishO LATIN SMALL LETTER OLD POLISH O
+	// Codepoint: U+A7C1
+	// Category:  Letter, Lowercase
+	// String:    ꟁ
+	LatinSmallLetterOldPolishO = '\ua7c1'
+
+	// LatinCapitalLetterAnglicanaW LATIN CAPITAL LETTER ANGLICANA W
+	// Codepoint: U+A7C2
+	// Category:  Letter, Uppercase
+	// String:    Ꟃ
+	LatinCapitalLetterAnglicanaW = '\ua7c2'
+
+	// LatinSmallLetterAnglicanaW LATIN SMALL LETTER ANGLICANA W
+	// Codepoint: U+A7C3
+	// Category:  Letter, Lowercase
+	// String:    ꟃ
+	LatinSmallLetterAnglicanaW = '\ua7c3'
+
+	// LatinCapitalLetterCWithPalatalHook LATIN CAPITAL LETTER C WITH PALATAL HOOK
+	// Codepoint: U+A7C4
+	// Category:  Letter, Uppercase
+	// String:    Ꞔ
+	LatinCapitalLetterCWithPalatalHook = '\ua7c4'
+
+	// LatinCapitalLetterSWithHook LATIN CAPITAL LETTER S WITH HOOK
+	// Codepoint: U+A7C5
+	// Category:  Letter, Uppercase
+	// String:    Ʂ
+	LatinCapitalLetterSWithHook = '\ua7c5'
+
+	// LatinCapitalLetterZWithPalatalHook LATIN CAPITAL LETTER Z WITH PALATAL HOOK
+	// Codepoint: U+A7C6
+	// Category:  Letter, Uppercase
+	// String:    Ᶎ
+	LatinCapitalLetterZWithPalatalHook = '\ua7c6'
+
+	// LatinCapitalLetterDWithShortStrokeOverlay LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY
+	// Codepoint: U+A7C7
+	// Category:  Letter, Uppercase
+	// String:    Ꟈ
+	LatinCapitalLetterDWithShortStrokeOverlay = '\ua7c7'
+
+	// LatinSmallLetterDWithShortStrokeOverlay LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY
+	// Codepoint: U+A7C8
+	// Category:  Letter, Lowercase
+	// String:    ꟈ
+	LatinSmallLetterDWithShortStrokeOverlay = '\ua7c8'
+
+	// LatinCapitalLetterSWithShortStrokeOverlay LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY
+	// Codepoint: U+A7C9
+	// Category:  Letter, Uppercase
+	// String:    Ꟊ
+	LatinCapitalLetterSWithShortStrokeOverlay = '\ua7c9'
+
+	// LatinSmallLetterSWithShortStrokeOverlay LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY
+	// Codepoint: U+A7CA
+	// Category:  Letter, Lowercase
+	// String:    ꟊ
+	LatinSmallLetterSWithShortStrokeOverlay = '\ua7ca'
+
+	// LatinCapitalLetterClosedInsularG LATIN CAPITAL LETTER CLOSED INSULAR G
+	// Codepoint: U+A7D0
+	// Category:  Letter, Uppercase
+	// String:    Ꟑ
+	LatinCapitalLetterClosedInsularG = '\ua7d0'
+
+	// LatinSmallLetterClosedInsularG LATIN SMALL LETTER CLOSED INSULAR G
+	// Codepoint: U+A7D1
+	// Category:  Letter, Lowercase
+	// String:    ꟑ
+	LatinSmallLetterClosedInsularG = '\ua7d1'
+
+	// LatinSmallLetterDoubleThorn LATIN SMALL LETTER DOUBLE THORN
+	// Codepoint: U+A7D3
+	// Category:  Letter, Lowercase
+	// String:    ꟓ
+	LatinSmallLetterDoubleThorn = '\ua7d3'
+
+	// LatinSmallLetterDoubleWynn LATIN SMALL LETTER DOUBLE WYNN
+	// Codepoint: U+A7D5
+	// Category:  Letter, Lowercase
+	// String:    ꟕ
+	LatinSmallLetterDoubleWynn = '\ua7d5'
+
+	// LatinCapitalLetterMiddleScotsS LATIN CAPITAL LETTER MIDDLE SCOTS S
+	// Codepoint: U+A7D6
+	// Category:  Letter, Uppercase
+	// String:    Ꟗ
+	LatinCapitalLetterMiddleScotsS = '\ua7d6'
+
+	// LatinSmallLetterMiddleScotsS LATIN SMALL LETTER MIDDLE SCOTS S
+	// Codepoint: U+A7D7
+	// Category:  Letter, Lowercase
+	// String:    ꟗ
+	LatinSmallLetterMiddleScotsS = '\ua7d7'
+
+	// LatinCapitalLetterSigmoidS LATIN CAPITAL LETTER SIGMOID S
+	// Codepoint: U+A7D8
+	// Category:  Letter, Uppercase
+	// String:    Ꟙ
+	LatinCapitalLetterSigmoidS = '\ua7d8'
+
+	// LatinSmallLetterSigmoidS LATIN SMALL LETTER SIGMOID S
+	// Codepoint: U+A7D9
+	// Category:  Letter, Lowercase
+	// String:    ꟙ
+	LatinSmallLetterSigmoidS = '\ua7d9'
+
+	// ModifierLetterCapitalC MODIFIER LETTER CAPITAL C
+	// Codepoint: U+A7F2
+	// Category:  Letter, Modifier
+	// String:    ꟲ
+	ModifierLetterCapitalC = '\ua7f2'
+
+	// ModifierLetterCapitalF MODIFIER LETTER CAPITAL F
+	// Codepoint: U+A7F3
+	// Category:  Letter, Modifier
+	// String:    ꟳ
+	ModifierLetterCapitalF = '\ua7f3'
+
+	// ModifierLetterCapitalQ MODIFIER LETTER CAPITAL Q
+	// Codepoint: U+A7F4
+	// Category:  Letter, Modifier
+	// String:    ꟴ
+	ModifierLetterCapitalQ = '\ua7f4'
+
+	// LatinCapitalLetterReversedHalfH LATIN CAPITAL LETTER REVERSED HALF H
+	// Codepoint: U+A7F5
+	// Category:  Letter, Uppercase
+	// String:    Ꟶ
+	LatinCapitalLetterReversedHalfH = '\ua7f5'
+
+	// LatinSmallLetterReversedHalfH LATIN SMALL LETTER REVERSED HALF H
+	// Codepoint: U+A7F6
+	// Category:  Letter, Lowercase
+	// String:    ꟶ
+	LatinSmallLetterReversedHalfH = '\ua7f6'
 
 	// LatinEpigraphicLetterSidewaysI LATIN EPIGRAPHIC LETTER SIDEWAYS I
 	// Codepoint: U+A7F7

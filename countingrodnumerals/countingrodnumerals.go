@@ -112,4 +112,46 @@ const (
 	// Category:  Number, Other
 	// String:    𝍱
 	CountingRodTensDigitNine = '\U0001d371'
+
+	// IdeographicTallyMarkOne IDEOGRAPHIC TALLY MARK ONE
+	// Codepoint: U+1D372
+	// Category:  Number, Other
+	// String:    𝍲
+	IdeographicTallyMarkOne = '\U0001d372'
+
+	// IdeographicTallyMarkTwo IDEOGRAPHIC TALLY MARK TWO
+	// Codepoint: U+1D373
+	// Category:  Number, Other
+	// String:    𝍳
+	IdeographicTallyMarkTwo = '\U0001d373'
+
+	// IdeographicTallyMarkThree IDEOGRAPHIC TALLY MARK THREE
+	// Codepoint: U+1D374
+	// Category:  Number, Other
+	// String:    𝍴
+	IdeographicTallyMarkThree = '\U0001d374'
+
+	// IdeographicTallyMarkFour IDEOGRAPHIC TALLY MARK FOUR
+	// Codepoint: U+1D375
+	// Category:  Number, Other
+	// String:    𝍵
+	IdeographicTallyMarkFour = '\U0001d375'
+
+	// IdeographicTallyMarkFive IDEOGRAPHIC TALLY MARK FIVE
+	// Codepoint: U+1D376
+	// Category:  Number, Other
+	// String:    𝍶
+	IdeographicTallyMarkFive = '\U0001d376'
+
+	// TallyMarkOne TALLY MARK ONE
+	// Codepoint: U+1D377
+	// Category:  Number, Other
+	// String:    𝍷
+	TallyMarkOne = '\U0001d377'
+
+	// TallyMarkFive TALLY MARK FIVE
+	// Codepoint: U+1D378
+	// Category:  Number, Other
+	// String:    𝍸
+	TallyMarkFive = '\U0001d378'
 )

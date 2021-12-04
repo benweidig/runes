@@ -358,4 +358,22 @@ const (
 	// Category:  Letter, Modifier
 	// String:    ߺ
 	NkoLajanyalan = '\u07fa'
+
+	// NkoDantayalan NKO DANTAYALAN
+	// Codepoint: U+07FD
+	// Category:  	Mark, Nonspacing
+	// String:    ߽
+	NkoDantayalan = '\u07fd'
+
+	// NkoDoromeSign NKO DOROME SIGN
+	// Codepoint: U+07FE
+	// Category:  Symbol, Currency
+	// String:    ߾
+	NkoDoromeSign = '\u07fe'
+
+	// NkoTamanSign NKO TAMAN SIGN
+	// Codepoint: U+07FF
+	// Category:  Symbol, Currency
+	// String:    ߿
+	NkoTamanSign = '\u07ff'
 )

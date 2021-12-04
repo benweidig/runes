@@ -247,259 +247,259 @@ const (
 
 	// GeorgianLetterAn GEORGIAN LETTER AN / GEORGIAN SMALL LETTER AN
 	// Codepoint: U+10D0
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ა
 	GeorgianLetterAn = '\u10d0'
 
 	// GeorgianLetterBan GEORGIAN LETTER BAN / GEORGIAN SMALL LETTER BAN
 	// Codepoint: U+10D1
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ბ
 	GeorgianLetterBan = '\u10d1'
 
 	// GeorgianLetterGan GEORGIAN LETTER GAN / GEORGIAN SMALL LETTER GAN
 	// Codepoint: U+10D2
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    გ
 	GeorgianLetterGan = '\u10d2'
 
 	// GeorgianLetterDon GEORGIAN LETTER DON / GEORGIAN SMALL LETTER DON
 	// Codepoint: U+10D3
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    დ
 	GeorgianLetterDon = '\u10d3'
 
 	// GeorgianLetterEn GEORGIAN LETTER EN / GEORGIAN SMALL LETTER EN
 	// Codepoint: U+10D4
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ე
 	GeorgianLetterEn = '\u10d4'
 
 	// GeorgianLetterVin GEORGIAN LETTER VIN / GEORGIAN SMALL LETTER VIN
 	// Codepoint: U+10D5
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ვ
 	GeorgianLetterVin = '\u10d5'
 
 	// GeorgianLetterZen GEORGIAN LETTER ZEN / GEORGIAN SMALL LETTER ZEN
 	// Codepoint: U+10D6
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ზ
 	GeorgianLetterZen = '\u10d6'
 
 	// GeorgianLetterTan GEORGIAN LETTER TAN / GEORGIAN SMALL LETTER TAN
 	// Codepoint: U+10D7
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    თ
 	GeorgianLetterTan = '\u10d7'
 
 	// GeorgianLetterIn GEORGIAN LETTER IN / GEORGIAN SMALL LETTER IN
 	// Codepoint: U+10D8
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ი
 	GeorgianLetterIn = '\u10d8'
 
 	// GeorgianLetterKan GEORGIAN LETTER KAN / GEORGIAN SMALL LETTER KAN
 	// Codepoint: U+10D9
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    კ
 	GeorgianLetterKan = '\u10d9'
 
 	// GeorgianLetterLas GEORGIAN LETTER LAS / GEORGIAN SMALL LETTER LAS
 	// Codepoint: U+10DA
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ლ
 	GeorgianLetterLas = '\u10da'
 
 	// GeorgianLetterMan GEORGIAN LETTER MAN / GEORGIAN SMALL LETTER MAN
 	// Codepoint: U+10DB
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    მ
 	GeorgianLetterMan = '\u10db'
 
 	// GeorgianLetterNar GEORGIAN LETTER NAR / GEORGIAN SMALL LETTER NAR
 	// Codepoint: U+10DC
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ნ
 	GeorgianLetterNar = '\u10dc'
 
 	// GeorgianLetterOn GEORGIAN LETTER ON / GEORGIAN SMALL LETTER ON
 	// Codepoint: U+10DD
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ო
 	GeorgianLetterOn = '\u10dd'
 
 	// GeorgianLetterPar GEORGIAN LETTER PAR / GEORGIAN SMALL LETTER PAR
 	// Codepoint: U+10DE
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    პ
 	GeorgianLetterPar = '\u10de'
 
 	// GeorgianLetterZhar GEORGIAN LETTER ZHAR / GEORGIAN SMALL LETTER ZHAR
 	// Codepoint: U+10DF
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჟ
 	GeorgianLetterZhar = '\u10df'
 
 	// GeorgianLetterRae GEORGIAN LETTER RAE / GEORGIAN SMALL LETTER RAE
 	// Codepoint: U+10E0
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    რ
 	GeorgianLetterRae = '\u10e0'
 
 	// GeorgianLetterSan GEORGIAN LETTER SAN / GEORGIAN SMALL LETTER SAN
 	// Codepoint: U+10E1
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ს
 	GeorgianLetterSan = '\u10e1'
 
 	// GeorgianLetterTar GEORGIAN LETTER TAR / GEORGIAN SMALL LETTER TAR
 	// Codepoint: U+10E2
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ტ
 	GeorgianLetterTar = '\u10e2'
 
 	// GeorgianLetterUn GEORGIAN LETTER UN / GEORGIAN SMALL LETTER UN
 	// Codepoint: U+10E3
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    უ
 	GeorgianLetterUn = '\u10e3'
 
 	// GeorgianLetterPhar GEORGIAN LETTER PHAR / GEORGIAN SMALL LETTER PHAR
 	// Codepoint: U+10E4
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ფ
 	GeorgianLetterPhar = '\u10e4'
 
 	// GeorgianLetterKhar GEORGIAN LETTER KHAR / GEORGIAN SMALL LETTER KHAR
 	// Codepoint: U+10E5
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ქ
 	GeorgianLetterKhar = '\u10e5'
 
 	// GeorgianLetterGhan GEORGIAN LETTER GHAN / GEORGIAN SMALL LETTER GHAN
 	// Codepoint: U+10E6
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ღ
 	GeorgianLetterGhan = '\u10e6'
 
 	// GeorgianLetterQar GEORGIAN LETTER QAR / GEORGIAN SMALL LETTER QAR
 	// Codepoint: U+10E7
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ყ
 	GeorgianLetterQar = '\u10e7'
 
 	// GeorgianLetterShin GEORGIAN LETTER SHIN / GEORGIAN SMALL LETTER SHIN
 	// Codepoint: U+10E8
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    შ
 	GeorgianLetterShin = '\u10e8'
 
 	// GeorgianLetterChin GEORGIAN LETTER CHIN / GEORGIAN SMALL LETTER CHIN
 	// Codepoint: U+10E9
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჩ
 	GeorgianLetterChin = '\u10e9'
 
 	// GeorgianLetterCan GEORGIAN LETTER CAN / GEORGIAN SMALL LETTER CAN
 	// Codepoint: U+10EA
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ც
 	GeorgianLetterCan = '\u10ea'
 
 	// GeorgianLetterJil GEORGIAN LETTER JIL / GEORGIAN SMALL LETTER JIL
 	// Codepoint: U+10EB
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ძ
 	GeorgianLetterJil = '\u10eb'
 
 	// GeorgianLetterCil GEORGIAN LETTER CIL / GEORGIAN SMALL LETTER CIL
 	// Codepoint: U+10EC
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    წ
 	GeorgianLetterCil = '\u10ec'
 
 	// GeorgianLetterChar GEORGIAN LETTER CHAR / GEORGIAN SMALL LETTER CHAR
 	// Codepoint: U+10ED
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჭ
 	GeorgianLetterChar = '\u10ed'
 
 	// GeorgianLetterXan GEORGIAN LETTER XAN / GEORGIAN SMALL LETTER XAN
 	// Codepoint: U+10EE
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ხ
 	GeorgianLetterXan = '\u10ee'
 
 	// GeorgianLetterJhan GEORGIAN LETTER JHAN / GEORGIAN SMALL LETTER JHAN
 	// Codepoint: U+10EF
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჯ
 	GeorgianLetterJhan = '\u10ef'
 
 	// GeorgianLetterHae GEORGIAN LETTER HAE / GEORGIAN SMALL LETTER HAE
 	// Codepoint: U+10F0
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჰ
 	GeorgianLetterHae = '\u10f0'
 
 	// GeorgianLetterHe GEORGIAN LETTER HE / GEORGIAN SMALL LETTER HE
 	// Codepoint: U+10F1
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჱ
 	GeorgianLetterHe = '\u10f1'
 
 	// GeorgianLetterHie GEORGIAN LETTER HIE / GEORGIAN SMALL LETTER HIE
 	// Codepoint: U+10F2
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჲ
 	GeorgianLetterHie = '\u10f2'
 
 	// GeorgianLetterWe GEORGIAN LETTER WE / GEORGIAN SMALL LETTER WE
 	// Codepoint: U+10F3
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჳ
 	GeorgianLetterWe = '\u10f3'
 
 	// GeorgianLetterHar GEORGIAN LETTER HAR / GEORGIAN SMALL LETTER HAR
 	// Codepoint: U+10F4
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჴ
 	GeorgianLetterHar = '\u10f4'
 
 	// GeorgianLetterHoe GEORGIAN LETTER HOE / GEORGIAN SMALL LETTER HOE
 	// Codepoint: U+10F5
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჵ
 	GeorgianLetterHoe = '\u10f5'
 
 	// GeorgianLetterFi GEORGIAN LETTER FI / GEORGIAN SMALL LETTER FI
 	// Codepoint: U+10F6
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჶ
 	GeorgianLetterFi = '\u10f6'
 
 	// GeorgianLetterYn GEORGIAN LETTER YN
 	// Codepoint: U+10F7
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჷ
 	GeorgianLetterYn = '\u10f7'
 
 	// GeorgianLetterElifi GEORGIAN LETTER ELIFI
 	// Codepoint: U+10F8
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჸ
 	GeorgianLetterElifi = '\u10f8'
 
 	// GeorgianLetterTurnedGan GEORGIAN LETTER TURNED GAN
 	// Codepoint: U+10F9
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჹ
 	GeorgianLetterTurnedGan = '\u10f9'
 
 	// GeorgianLetterAin GEORGIAN LETTER AIN
 	// Codepoint: U+10FA
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჺ
 	GeorgianLetterAin = '\u10fa'
 
@@ -517,19 +517,19 @@ const (
 
 	// GeorgianLetterAen GEORGIAN LETTER AEN
 	// Codepoint: U+10FD
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჽ
 	GeorgianLetterAen = '\u10fd'
 
 	// GeorgianLetterHardSign GEORGIAN LETTER HARD SIGN
 	// Codepoint: U+10FE
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჾ
 	GeorgianLetterHardSign = '\u10fe'
 
 	// GeorgianLetterLabialSign GEORGIAN LETTER LABIAL SIGN
 	// Codepoint: U+10FF
-	// Category:  Letter, Other
+	// Category:  Letter, Lowercase
 	// String:    ჿ
 	GeorgianLetterLabialSign = '\u10ff'
 )

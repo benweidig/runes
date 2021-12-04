@@ -95,6 +95,12 @@ const (
 	// String:    ᠎
 	MongolianVowelSeparator = '\u180e'
 
+	// MongolianFreeVariationSelectorFour MONGOLIAN FREE VARIATION SELECTOR FOUR
+	// Codepoint: U+180F
+	// Category:  	Mark, Nonspacing
+	// String:    ᠏
+	MongolianFreeVariationSelectorFour = '\u180f'
+
 	// MongolianDigitZero MONGOLIAN DIGIT ZERO
 	// Codepoint: U+1810
 	// Category:  	Number, Decimal Digit
@@ -682,6 +688,12 @@ const (
 	// Category:  Letter, Other
 	// String:    ᡷ
 	MongolianLetterManchuZha = '\u1877'
+
+	// MongolianLetterChaWithTwoDots MONGOLIAN LETTER CHA WITH TWO DOTS
+	// Codepoint: U+1878
+	// Category:  Letter, Other
+	// String:    ᡸ
+	MongolianLetterChaWithTwoDots = '\u1878'
 
 	// MongolianLetterAliGaliAnusvaraOne MONGOLIAN LETTER ALI GALI ANUSVARA ONE
 	// Codepoint: U+1880

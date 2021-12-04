@@ -893,6 +893,12 @@ const (
 	// String:    ⮕
 	RightwardsBlackArrow = '\u2b95'
 
+	// SymbolForTypeAElectronics SYMBOL FOR TYPE A ELECTRONICS
+	// Codepoint: U+2B97
+	// Category:  Symbol, Other
+	// String:    ⮗
+	SymbolForTypeAElectronics = '\u2b97'
+
 	// ThreeDTopLightedLeftwardsEquilateralArrowhead THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD
 	// Codepoint: U+2B98
 	// Category:  Symbol, Other
@@ -1097,6 +1103,24 @@ const (
 	// String:    ⮹
 	UpArrowheadInARectangleBox = '\u2bb9'
 
+	// OverlappingWhiteSquares OVERLAPPING WHITE SQUARES
+	// Codepoint: U+2BBA
+	// Category:  Symbol, Other
+	// String:    ⮺
+	OverlappingWhiteSquares = '\u2bba'
+
+	// OverlappingWhiteAndBlackSquares OVERLAPPING WHITE AND BLACK SQUARES
+	// Codepoint: U+2BBB
+	// Category:  Symbol, Other
+	// String:    ⮻
+	OverlappingWhiteAndBlackSquares = '\u2bbb'
+
+	// OverlappingBlackSquares OVERLAPPING BLACK SQUARES
+	// Codepoint: U+2BBC
+	// Category:  Symbol, Other
+	// String:    ⮼
+	OverlappingBlackSquares = '\u2bbc'
+
 	// BallotBoxWithLightX BALLOT BOX WITH LIGHT X
 	// Codepoint: U+2BBD
 	// Category:  Symbol, Other
@@ -1169,6 +1193,12 @@ const (
 	// String:    ⯈
 	BlackMediumRightPointingTriangleCentred = '\u2bc8'
 
+	// NeptuneFormTwo NEPTUNE FORM TWO
+	// Codepoint: U+2BC9
+	// Category:  Symbol, Other
+	// String:    ⯉
+	NeptuneFormTwo = '\u2bc9'
+
 	// TopHalfBlackCircle TOP HALF BLACK CIRCLE
 	// Codepoint: U+2BCA
 	// Category:  Symbol, Other
@@ -1223,6 +1253,156 @@ const (
 	// String:    ⯒
 	GroupMark = '\u2bd2'
 
+	// PlutoFormTwo PLUTO FORM TWO
+	// Codepoint: U+2BD3
+	// Category:  Symbol, Other
+	// String:    ⯓
+	PlutoFormTwo = '\u2bd3'
+
+	// PlutoFormThree PLUTO FORM THREE
+	// Codepoint: U+2BD4
+	// Category:  Symbol, Other
+	// String:    ⯔
+	PlutoFormThree = '\u2bd4'
+
+	// PlutoFormFour PLUTO FORM FOUR
+	// Codepoint: U+2BD5
+	// Category:  Symbol, Other
+	// String:    ⯕
+	PlutoFormFour = '\u2bd5'
+
+	// PlutoFormFive PLUTO FORM FIVE
+	// Codepoint: U+2BD6
+	// Category:  Symbol, Other
+	// String:    ⯖
+	PlutoFormFive = '\u2bd6'
+
+	// Transpluto TRANSPLUTO
+	// Codepoint: U+2BD7
+	// Category:  Symbol, Other
+	// String:    ⯗
+	Transpluto = '\u2bd7'
+
+	// Proserpina PROSERPINA
+	// Codepoint: U+2BD8
+	// Category:  Symbol, Other
+	// String:    ⯘
+	Proserpina = '\u2bd8'
+
+	// Astraea ASTRAEA
+	// Codepoint: U+2BD9
+	// Category:  Symbol, Other
+	// String:    ⯙
+	Astraea = '\u2bd9'
+
+	// Hygiea HYGIEA
+	// Codepoint: U+2BDA
+	// Category:  Symbol, Other
+	// String:    ⯚
+	Hygiea = '\u2bda'
+
+	// Pholus PHOLUS
+	// Codepoint: U+2BDB
+	// Category:  Symbol, Other
+	// String:    ⯛
+	Pholus = '\u2bdb'
+
+	// Nessus NESSUS
+	// Codepoint: U+2BDC
+	// Category:  Symbol, Other
+	// String:    ⯜
+	Nessus = '\u2bdc'
+
+	// WhiteMoonSelena WHITE MOON SELENA
+	// Codepoint: U+2BDD
+	// Category:  Symbol, Other
+	// String:    ⯝
+	WhiteMoonSelena = '\u2bdd'
+
+	// BlackDiamondOnCross BLACK DIAMOND ON CROSS
+	// Codepoint: U+2BDE
+	// Category:  Symbol, Other
+	// String:    ⯞
+	BlackDiamondOnCross = '\u2bde'
+
+	// TrueLightMoonArta TRUE LIGHT MOON ARTA
+	// Codepoint: U+2BDF
+	// Category:  Symbol, Other
+	// String:    ⯟
+	TrueLightMoonArta = '\u2bdf'
+
+	// Cupido CUPIDO
+	// Codepoint: U+2BE0
+	// Category:  Symbol, Other
+	// String:    ⯠
+	Cupido = '\u2be0'
+
+	// Hades HADES
+	// Codepoint: U+2BE1
+	// Category:  Symbol, Other
+	// String:    ⯡
+	Hades = '\u2be1'
+
+	// Zeus ZEUS
+	// Codepoint: U+2BE2
+	// Category:  Symbol, Other
+	// String:    ⯢
+	Zeus = '\u2be2'
+
+	// Kronos KRONOS
+	// Codepoint: U+2BE3
+	// Category:  Symbol, Other
+	// String:    ⯣
+	Kronos = '\u2be3'
+
+	// Apollon APOLLON
+	// Codepoint: U+2BE4
+	// Category:  Symbol, Other
+	// String:    ⯤
+	Apollon = '\u2be4'
+
+	// Admetos ADMETOS
+	// Codepoint: U+2BE5
+	// Category:  Symbol, Other
+	// String:    ⯥
+	Admetos = '\u2be5'
+
+	// Vulcanus VULCANUS
+	// Codepoint: U+2BE6
+	// Category:  Symbol, Other
+	// String:    ⯦
+	Vulcanus = '\u2be6'
+
+	// Poseidon POSEIDON
+	// Codepoint: U+2BE7
+	// Category:  Symbol, Other
+	// String:    ⯧
+	Poseidon = '\u2be7'
+
+	// LeftHalfBlackStar LEFT HALF BLACK STAR
+	// Codepoint: U+2BE8
+	// Category:  Symbol, Other
+	// String:    ⯨
+	LeftHalfBlackStar = '\u2be8'
+
+	// RightHalfBlackStar RIGHT HALF BLACK STAR
+	// Codepoint: U+2BE9
+	// Category:  Symbol, Other
+	// String:    ⯩
+	RightHalfBlackStar = '\u2be9'
+
+	// StarWithLeftHalfBlack STAR WITH LEFT HALF BLACK
+	// Codepoint: U+2BEA
+	// Category:  Symbol, Other
+	// String:    ⯪
+	StarWithLeftHalfBlack = '\u2bea'
+
+	// StarWithRightHalfBlack STAR WITH RIGHT HALF BLACK
+	// Codepoint: U+2BEB
+	// Category:  Symbol, Other
+	// String:    ⯫
+	StarWithRightHalfBlack = '\u2beb'
+
 	// LeftwardsTwoHeadedArrowWithTriangleArrowheads LEFTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS
 	// Codepoint: U+2BEC
 	// Category:  Symbol, Other
@@ -1246,4 +1426,100 @@ const (
 	// Category:  Symbol, Other
 	// String:    ⯯
 	DownwardsTwoHeadedArrowWithTriangleArrowheads = '\u2bef'
+
+	// ErisFormOne ERIS FORM ONE
+	// Codepoint: U+2BF0
+	// Category:  Symbol, Other
+	// String:    ⯰
+	ErisFormOne = '\u2bf0'
+
+	// ErisFormTwo ERIS FORM TWO
+	// Codepoint: U+2BF1
+	// Category:  Symbol, Other
+	// String:    ⯱
+	ErisFormTwo = '\u2bf1'
+
+	// Sedna SEDNA
+	// Codepoint: U+2BF2
+	// Category:  Symbol, Other
+	// String:    ⯲
+	Sedna = '\u2bf2'
+
+	// RussianAstrologicalSymbolVigintile RUSSIAN ASTROLOGICAL SYMBOL VIGINTILE
+	// Codepoint: U+2BF3
+	// Category:  Symbol, Other
+	// String:    ⯳
+	RussianAstrologicalSymbolVigintile = '\u2bf3'
+
+	// RussianAstrologicalSymbolNovile RUSSIAN ASTROLOGICAL SYMBOL NOVILE
+	// Codepoint: U+2BF4
+	// Category:  Symbol, Other
+	// String:    ⯴
+	RussianAstrologicalSymbolNovile = '\u2bf4'
+
+	// RussianAstrologicalSymbolQuintile RUSSIAN ASTROLOGICAL SYMBOL QUINTILE
+	// Codepoint: U+2BF5
+	// Category:  Symbol, Other
+	// String:    ⯵
+	RussianAstrologicalSymbolQuintile = '\u2bf5'
+
+	// RussianAstrologicalSymbolBinovile RUSSIAN ASTROLOGICAL SYMBOL BINOVILE
+	// Codepoint: U+2BF6
+	// Category:  Symbol, Other
+	// String:    ⯶
+	RussianAstrologicalSymbolBinovile = '\u2bf6'
+
+	// RussianAstrologicalSymbolSentagon RUSSIAN ASTROLOGICAL SYMBOL SENTAGON
+	// Codepoint: U+2BF7
+	// Category:  Symbol, Other
+	// String:    ⯷
+	RussianAstrologicalSymbolSentagon = '\u2bf7'
+
+	// RussianAstrologicalSymbolTredecile RUSSIAN ASTROLOGICAL SYMBOL TREDECILE
+	// Codepoint: U+2BF8
+	// Category:  Symbol, Other
+	// String:    ⯸
+	RussianAstrologicalSymbolTredecile = '\u2bf8'
+
+	// EqualsSignWithInfinityBelow EQUALS SIGN WITH INFINITY BELOW
+	// Codepoint: U+2BF9
+	// Category:  Symbol, Other
+	// String:    ⯹
+	EqualsSignWithInfinityBelow = '\u2bf9'
+
+	// UnitedSymbol UNITED SYMBOL
+	// Codepoint: U+2BFA
+	// Category:  Symbol, Other
+	// String:    ⯺
+	UnitedSymbol = '\u2bfa'
+
+	// SeparatedSymbol SEPARATED SYMBOL
+	// Codepoint: U+2BFB
+	// Category:  Symbol, Other
+	// String:    ⯻
+	SeparatedSymbol = '\u2bfb'
+
+	// DoubledSymbol DOUBLED SYMBOL
+	// Codepoint: U+2BFC
+	// Category:  Symbol, Other
+	// String:    ⯼
+	DoubledSymbol = '\u2bfc'
+
+	// PassedSymbol PASSED SYMBOL
+	// Codepoint: U+2BFD
+	// Category:  Symbol, Other
+	// String:    ⯽
+	PassedSymbol = '\u2bfd'
+
+	// ReversedRightAngle REVERSED RIGHT ANGLE
+	// Codepoint: U+2BFE
+	// Category:  Symbol, Other
+	// String:    ⯾
+	ReversedRightAngle = '\u2bfe'
+
+	// HellschreiberPauseSymbol HELLSCHREIBER PAUSE SYMBOL
+	// Codepoint: U+2BFF
+	// Category:  Symbol, Other
+	// String:    ⯿
+	HellschreiberPauseSymbol = '\u2bff'
 )

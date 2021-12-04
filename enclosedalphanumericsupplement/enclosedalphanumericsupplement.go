@@ -83,6 +83,24 @@ const (
 	// String:    🄌
 	DingbatNegativeCircledSansSerifDigitZero = '\U0001f10c'
 
+	// CircledZeroWithSlash CIRCLED ZERO WITH SLASH
+	// Codepoint: U+1F10D
+	// Category:  Symbol, Other
+	// String:    🄍
+	CircledZeroWithSlash = '\U0001f10d'
+
+	// CircledAnticlockwiseArrow CIRCLED ANTICLOCKWISE ARROW
+	// Codepoint: U+1F10E
+	// Category:  Symbol, Other
+	// String:    🄎
+	CircledAnticlockwiseArrow = '\U0001f10e'
+
+	// CircledDollarSignWithOverlaidBackslash CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH
+	// Codepoint: U+1F10F
+	// Category:  Symbol, Other
+	// String:    🄏
+	CircledDollarSignWithOverlaidBackslash = '\U0001f10f'
+
 	// ParenthesizedLatinCapitalLetterA PARENTHESIZED LATIN CAPITAL LETTER A
 	// Codepoint: U+1F110
 	// Category:  Symbol, Other
@@ -268,6 +286,12 @@ const (
 	// Category:  Symbol, Other
 	// String:    🄮
 	CircledWz = '\U0001f12e'
+
+	// CopyleftSymbol COPYLEFT SYMBOL
+	// Codepoint: U+1F12F
+	// Category:  Symbol, Other
+	// String:    🄯
+	CopyleftSymbol = '\U0001f12f'
 
 	// SquaredLatinCapitalLetterA SQUARED LATIN CAPITAL LETTER A
 	// Codepoint: U+1F130
@@ -628,6 +652,30 @@ const (
 	// Category:  Symbol, Other
 	// String:    🅫
 	RaisedMdSign = '\U0001f16b'
+
+	// RaisedMrSign RAISED MR SIGN
+	// Codepoint: U+1F16C
+	// Category:  Symbol, Other
+	// String:    🅬
+	RaisedMrSign = '\U0001f16c'
+
+	// CircledCc CIRCLED CC
+	// Codepoint: U+1F16D
+	// Category:  Symbol, Other
+	// String:    🅭
+	CircledCc = '\U0001f16d'
+
+	// CircledCWithOverlaidBackslash CIRCLED C WITH OVERLAID BACKSLASH
+	// Codepoint: U+1F16E
+	// Category:  Symbol, Other
+	// String:    🅮
+	CircledCWithOverlaidBackslash = '\U0001f16e'
+
+	// CircledHumanFigure CIRCLED HUMAN FIGURE
+	// Codepoint: U+1F16F
+	// Category:  Symbol, Other
+	// String:    🅯
+	CircledHumanFigure = '\U0001f16f'
 
 	// NegativeSquaredLatinCapitalLetterA NEGATIVE SQUARED LATIN CAPITAL LETTER A
 	// Codepoint: U+1F170
@@ -994,6 +1042,12 @@ const (
 	// Category:  Symbol, Other
 	// String:    🆬
 	SquaredVod = '\U0001f1ac'
+
+	// MaskWorkSymbol MASK WORK SYMBOL
+	// Codepoint: U+1F1AD
+	// Category:  Symbol, Other
+	// String:    🆭
+	MaskWorkSymbol = '\U0001f1ad'
 
 	// RegionalIndicatorSymbolLetterA REGIONAL INDICATOR SYMBOL LETTER A
 	// Codepoint: U+1F1E6

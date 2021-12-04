@@ -419,6 +419,48 @@ const (
 	// String:    𖽄
 	MiaoLetterHha = '\U00016f44'
 
+	// MiaoLetterBri MIAO LETTER BRI
+	// Codepoint: U+16F45
+	// Category:  Letter, Other
+	// String:    𖽅
+	MiaoLetterBri = '\U00016f45'
+
+	// MiaoLetterSyi MIAO LETTER SYI
+	// Codepoint: U+16F46
+	// Category:  Letter, Other
+	// String:    𖽆
+	MiaoLetterSyi = '\U00016f46'
+
+	// MiaoLetterDzyi MIAO LETTER DZYI
+	// Codepoint: U+16F47
+	// Category:  Letter, Other
+	// String:    𖽇
+	MiaoLetterDzyi = '\U00016f47'
+
+	// MiaoLetterTe MIAO LETTER TE
+	// Codepoint: U+16F48
+	// Category:  Letter, Other
+	// String:    𖽈
+	MiaoLetterTe = '\U00016f48'
+
+	// MiaoLetterTse MIAO LETTER TSE
+	// Codepoint: U+16F49
+	// Category:  Letter, Other
+	// String:    𖽉
+	MiaoLetterTse = '\U00016f49'
+
+	// MiaoLetterRte MIAO LETTER RTE
+	// Codepoint: U+16F4A
+	// Category:  Letter, Other
+	// String:    𖽊
+	MiaoLetterRte = '\U00016f4a'
+
+	// MiaoSignConsonantModifierBar MIAO SIGN CONSONANT MODIFIER BAR
+	// Codepoint: U+16F4F
+	// Category:  	Mark, Nonspacing
+	// String:    𖽏
+	MiaoSignConsonantModifierBar = '\U00016f4f'
+
 	// MiaoLetterNasalization MIAO LETTER NASALIZATION
 	// Codepoint: U+16F50
 	// Category:  Letter, Other
@@ -700,6 +742,60 @@ const (
 	// Category:  	Mark, Spacing Combining
 	// String:    𖽾
 	MiaoVowelSignNg = '\U00016f7e'
+
+	// MiaoVowelSignUog MIAO VOWEL SIGN UOG
+	// Codepoint: U+16F7F
+	// Category:  	Mark, Spacing Combining
+	// String:    𖽿
+	MiaoVowelSignUog = '\U00016f7f'
+
+	// MiaoVowelSignYui MIAO VOWEL SIGN YUI
+	// Codepoint: U+16F80
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾀
+	MiaoVowelSignYui = '\U00016f80'
+
+	// MiaoVowelSignOg MIAO VOWEL SIGN OG
+	// Codepoint: U+16F81
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾁
+	MiaoVowelSignOg = '\U00016f81'
+
+	// MiaoVowelSignOer MIAO VOWEL SIGN OER
+	// Codepoint: U+16F82
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾂
+	MiaoVowelSignOer = '\U00016f82'
+
+	// MiaoVowelSignVw MIAO VOWEL SIGN VW
+	// Codepoint: U+16F83
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾃
+	MiaoVowelSignVw = '\U00016f83'
+
+	// MiaoVowelSignIg MIAO VOWEL SIGN IG
+	// Codepoint: U+16F84
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾄
+	MiaoVowelSignIg = '\U00016f84'
+
+	// MiaoVowelSignEa MIAO VOWEL SIGN EA
+	// Codepoint: U+16F85
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾅
+	MiaoVowelSignEa = '\U00016f85'
+
+	// MiaoVowelSignIong MIAO VOWEL SIGN IONG
+	// Codepoint: U+16F86
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾆
+	MiaoVowelSignIong = '\U00016f86'
+
+	// MiaoVowelSignUi MIAO VOWEL SIGN UI
+	// Codepoint: U+16F87
+	// Category:  	Mark, Spacing Combining
+	// String:    𖾇
+	MiaoVowelSignUi = '\U00016f87'
 
 	// MiaoToneRight MIAO TONE RIGHT
 	// Codepoint: U+16F8F

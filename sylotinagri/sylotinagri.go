@@ -268,4 +268,10 @@ const (
 	// Category:  Symbol, Other
 	// String:    ꠫
 	SylotiNagriPoetryMark4 = '\ua82b'
+
+	// SylotiNagriSignAlternateHasanta SYLOTI NAGRI SIGN ALTERNATE HASANTA
+	// Codepoint: U+A82C
+	// Category:  	Mark, Nonspacing
+	// String:    ꠬
+	SylotiNagriSignAlternateHasanta = '\ua82c'
 )

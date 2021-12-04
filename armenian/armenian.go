@@ -275,6 +275,12 @@ const (
 	// String:    ՟
 	ArmenianAbbreviationMark = '\u055f'
 
+	// ArmenianSmallLetterTurnedAyb ARMENIAN SMALL LETTER TURNED AYB
+	// Codepoint: U+0560
+	// Category:  Letter, Lowercase
+	// String:    ՠ
+	ArmenianSmallLetterTurnedAyb = '\u0560'
+
 	// ArmenianSmallLetterAyb ARMENIAN SMALL LETTER AYB
 	// Codepoint: U+0561
 	// Category:  Letter, Lowercase
@@ -508,6 +514,12 @@ const (
 	// Category:  Letter, Lowercase
 	// String:    և
 	ArmenianSmallLigatureEchYiwn = '\u0587'
+
+	// ArmenianSmallLetterYiWithStroke ARMENIAN SMALL LETTER YI WITH STROKE
+	// Codepoint: U+0588
+	// Category:  Letter, Lowercase
+	// String:    ֈ
+	ArmenianSmallLetterYiWithStroke = '\u0588'
 
 	// ArmenianFullStop ARMENIAN FULL STOP / ARMENIAN PERIOD
 	// Codepoint: U+0589

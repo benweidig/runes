@@ -400,4 +400,16 @@ const (
 	// Category:  Punctuation, Other
 	// String:    𑃁
 	KaithiDoubleDanda = '\U000110c1'
+
+	// KaithiVowelSignVocalicR KAITHI VOWEL SIGN VOCALIC R
+	// Codepoint: U+110C2
+	// Category:  	Mark, Nonspacing
+	// String:    𑃂
+	KaithiVowelSignVocalicR = '\U000110c2'
+
+	// KaithiNumberSignAbove KAITHI NUMBER SIGN ABOVE
+	// Codepoint: U+110CD
+	// Category:  Other, Format
+	// String:    𑃍
+	KaithiNumberSignAbove = '\U000110cd'
 )

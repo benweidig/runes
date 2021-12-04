@@ -77,6 +77,12 @@ const (
 	// String:    𐆛
 	RomanCenturialSign = '\U0001019b'
 
+	// AsciaSymbol ASCIA SYMBOL
+	// Codepoint: U+1019C
+	// Category:  Symbol, Other
+	// String:    𐆜
+	AsciaSymbol = '\U0001019c'
+
 	// GreekSymbolTauRho GREEK SYMBOL TAU RHO
 	// Codepoint: U+101A0
 	// Category:  Symbol, Other

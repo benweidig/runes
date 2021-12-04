@@ -1,6 +1,6 @@
 // Package ahom
 // Block: Ahom
-// Range: 11700..1173F
+// Range: 11700..1174F
 package ahom
 
 const (
@@ -160,6 +160,12 @@ const (
 	// Category:  Letter, Other
 	// String:    𑜙
 	AhomLetterJha = '\U00011719'
+
+	// AhomLetterAlternateBa AHOM LETTER ALTERNATE BA
+	// Codepoint: U+1171A
+	// Category:  Letter, Other
+	// String:    𑜚
+	AhomLetterAlternateBa = '\U0001171a'
 
 	// AhomConsonantSignMedialLa AHOM CONSONANT SIGN MEDIAL LA
 	// Codepoint: U+1171D
@@ -346,4 +352,46 @@ const (
 	// Category:  Symbol, Other
 	// String:    𑜿
 	AhomSymbolVi = '\U0001173f'
+
+	// AhomLetterCa AHOM LETTER CA
+	// Codepoint: U+11740
+	// Category:  Letter, Other
+	// String:    𑝀
+	AhomLetterCa = '\U00011740'
+
+	// AhomLetterTta AHOM LETTER TTA
+	// Codepoint: U+11741
+	// Category:  Letter, Other
+	// String:    𑝁
+	AhomLetterTta = '\U00011741'
+
+	// AhomLetterTtha AHOM LETTER TTHA
+	// Codepoint: U+11742
+	// Category:  Letter, Other
+	// String:    𑝂
+	AhomLetterTtha = '\U00011742'
+
+	// AhomLetterDda AHOM LETTER DDA
+	// Codepoint: U+11743
+	// Category:  Letter, Other
+	// String:    𑝃
+	AhomLetterDda = '\U00011743'
+
+	// AhomLetterDdha AHOM LETTER DDHA
+	// Codepoint: U+11744
+	// Category:  Letter, Other
+	// String:    𑝄
+	AhomLetterDdha = '\U00011744'
+
+	// AhomLetterNna AHOM LETTER NNA
+	// Codepoint: U+11745
+	// Category:  Letter, Other
+	// String:    𑝅
+	AhomLetterNna = '\U00011745'
+
+	// AhomLetterLla AHOM LETTER LLA
+	// Codepoint: U+11746
+	// Category:  Letter, Other
+	// String:    𑝆
+	AhomLetterLla = '\U00011746'
 )

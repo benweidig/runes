@@ -305,6 +305,12 @@ const (
 	// String:    𑌹
 	GranthaLetterHa = '\U00011339'
 
+	// CombiningBinduBelow COMBINING BINDU BELOW
+	// Codepoint: U+1133B
+	// Category:  	Mark, Nonspacing
+	// String:    𑌻
+	CombiningBinduBelow = '\U0001133b'
+
 	// GranthaSignNukta GRANTHA SIGN NUKTA
 	// Codepoint: U+1133C
 	// Category:  	Mark, Nonspacing

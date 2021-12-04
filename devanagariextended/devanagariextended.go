@@ -184,4 +184,16 @@ const (
 	// Category:  Letter, Other
 	// String:    ꣽ
 	DevanagariJainOm = '\ua8fd'
+
+	// DevanagariLetterAy DEVANAGARI LETTER AY
+	// Codepoint: U+A8FE
+	// Category:  Letter, Other
+	// String:    ꣾ
+	DevanagariLetterAy = '\ua8fe'
+
+	// DevanagariVowelSignAy DEVANAGARI VOWEL SIGN AY
+	// Codepoint: U+A8FF
+	// Category:  	Mark, Nonspacing
+	// String:    ꣿ
+	DevanagariVowelSignAy = '\ua8ff'
 )
