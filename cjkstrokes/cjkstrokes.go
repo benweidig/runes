@@ -220,4 +220,10 @@ const (
 	// Category:  Symbol, Other
 	// String:    ㇣
 	CjkStrokeQ = '\u31e3'
+
+	// IdeographicDescriptionCharacterSubtraction IDEOGRAPHIC DESCRIPTION CHARACTER SUBTRACTION
+	// Codepoint: U+31EF
+	// Category:  Symbol, Other
+	// String:    ㇯
+	IdeographicDescriptionCharacterSubtraction = '\u31ef'
 )

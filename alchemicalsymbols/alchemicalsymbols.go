@@ -700,4 +700,52 @@ const (
 	// Category:  Symbol, Other
 	// String:    🝳
 	AlchemicalSymbolForHalfOunce = '\U0001f773'
+
+	// LotOfFortune LOT OF FORTUNE
+	// Codepoint: U+1F774
+	// Category:  Symbol, Other
+	// String:    🝴
+	LotOfFortune = '\U0001f774'
+
+	// Occultation OCCULTATION
+	// Codepoint: U+1F775
+	// Category:  Symbol, Other
+	// String:    🝵
+	Occultation = '\U0001f775'
+
+	// LunarEclipse LUNAR ECLIPSE
+	// Codepoint: U+1F776
+	// Category:  Symbol, Other
+	// String:    🝶
+	LunarEclipse = '\U0001f776'
+
+	// Haumea HAUMEA
+	// Codepoint: U+1F77B
+	// Category:  Symbol, Other
+	// String:    🝻
+	Haumea = '\U0001f77b'
+
+	// Makemake MAKEMAKE
+	// Codepoint: U+1F77C
+	// Category:  Symbol, Other
+	// String:    🝼
+	Makemake = '\U0001f77c'
+
+	// Gonggong GONGGONG
+	// Codepoint: U+1F77D
+	// Category:  Symbol, Other
+	// String:    🝽
+	Gonggong = '\U0001f77d'
+
+	// Quaoar QUAOAR
+	// Codepoint: U+1F77E
+	// Category:  Symbol, Other
+	// String:    🝾
+	Quaoar = '\U0001f77e'
+
+	// Orcus ORCUS
+	// Codepoint: U+1F77F
+	// Category:  Symbol, Other
+	// String:    🝿
+	Orcus = '\U0001f77f'
 )

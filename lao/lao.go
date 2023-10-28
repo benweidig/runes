@@ -413,6 +413,12 @@ const (
 	// String:    ໍ
 	LaoNiggahita = '\u0ecd'
 
+	// LaoYamakkan LAO YAMAKKAN
+	// Codepoint: U+0ECE
+	// Category:  	Mark, Nonspacing
+	// String:    ໎
+	LaoYamakkan = '\u0ece'
+
 	// LaoDigitZero LAO DIGIT ZERO
 	// Codepoint: U+0ED0
 	// Category:  	Number, Decimal Digit

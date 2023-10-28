@@ -76,4 +76,28 @@ const (
 	// Category:  Symbol, Other
 	// String:    ⿻
 	IdeographicDescriptionCharacterOverlaid = '\u2ffb'
+
+	// IdeographicDescriptionCharacterSurroundFromRight IDEOGRAPHIC DESCRIPTION CHARACTER SURROUND FROM RIGHT
+	// Codepoint: U+2FFC
+	// Category:  Symbol, Other
+	// String:    ⿼
+	IdeographicDescriptionCharacterSurroundFromRight = '\u2ffc'
+
+	// IdeographicDescriptionCharacterSurroundFromLowerRight IDEOGRAPHIC DESCRIPTION CHARACTER SURROUND FROM LOWER RIGHT
+	// Codepoint: U+2FFD
+	// Category:  Symbol, Other
+	// String:    ⿽
+	IdeographicDescriptionCharacterSurroundFromLowerRight = '\u2ffd'
+
+	// IdeographicDescriptionCharacterHorizontalReflection IDEOGRAPHIC DESCRIPTION CHARACTER HORIZONTAL REFLECTION
+	// Codepoint: U+2FFE
+	// Category:  Symbol, Other
+	// String:    ⿾
+	IdeographicDescriptionCharacterHorizontalReflection = '\u2ffe'
+
+	// IdeographicDescriptionCharacterRotation IDEOGRAPHIC DESCRIPTION CHARACTER ROTATION
+	// Codepoint: U+2FFF
+	// Category:  Symbol, Other
+	// String:    ⿿
+	IdeographicDescriptionCharacterRotation = '\u2fff'
 )

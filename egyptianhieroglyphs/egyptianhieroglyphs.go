@@ -6430,4 +6430,10 @@ const (
 	// Category:  Letter, Other
 	// String:    𓐮
 	EgyptianHieroglyphAa032 = '\U0001342e'
+
+	// EgyptianHieroglyphV011d EGYPTIAN HIEROGLYPH V011D
+	// Codepoint: U+1342F
+	// Category:  Letter, Other
+	// String:    𓐯
+	EgyptianHieroglyphV011d = '\U0001342f'
 )

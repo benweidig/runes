@@ -544,4 +544,10 @@ const (
 	// Category:  Letter, Other
 	// String:    ೲ
 	KannadaSignUpadhmaniya = '\u0cf2'
+
+	// KannadaSignCombiningAnusvaraAboveRight KANNADA SIGN COMBINING ANUSVARA ABOVE RIGHT
+	// Codepoint: U+0CF3
+	// Category:  	Mark, Spacing Combining
+	// String:    ೳ
+	KannadaSignCombiningAnusvaraAboveRight = '\u0cf3'
 )

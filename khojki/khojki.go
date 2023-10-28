@@ -376,4 +376,22 @@ const (
 	// Category:  	Mark, Nonspacing
 	// String:    𑈾
 	KhojkiSignSukun = '\U0001123e'
+
+	// KhojkiLetterQa KHOJKI LETTER QA
+	// Codepoint: U+1123F
+	// Category:  Letter, Other
+	// String:    𑈿
+	KhojkiLetterQa = '\U0001123f'
+
+	// KhojkiLetterShortI KHOJKI LETTER SHORT I
+	// Codepoint: U+11240
+	// Category:  Letter, Other
+	// String:    𑉀
+	KhojkiLetterShortI = '\U00011240'
+
+	// KhojkiVowelSignVocalicR KHOJKI VOWEL SIGN VOCALIC R
+	// Codepoint: U+11241
+	// Category:  	Mark, Nonspacing
+	// String:    𑉁
+	KhojkiVowelSignVocalicR = '\U00011241'
 )

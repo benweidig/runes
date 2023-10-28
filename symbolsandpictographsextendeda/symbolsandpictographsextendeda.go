@@ -35,6 +35,24 @@ const (
 	// String:    🩴
 	ThongSandal = '\U0001fa74'
 
+	// LightBlueHeart LIGHT BLUE HEART
+	// Codepoint: U+1FA75
+	// Category:  Symbol, Other
+	// String:    🩵
+	LightBlueHeart = '\U0001fa75'
+
+	// GreyHeart GREY HEART
+	// Codepoint: U+1FA76
+	// Category:  Symbol, Other
+	// String:    🩶
+	GreyHeart = '\U0001fa76'
+
+	// PinkHeart PINK HEART
+	// Codepoint: U+1FA77
+	// Category:  Symbol, Other
+	// String:    🩷
+	PinkHeart = '\U0001fa77'
+
 	// DropOfBlood DROP OF BLOOD
 	// Codepoint: U+1FA78
 	// Category:  Symbol, Other
@@ -106,6 +124,18 @@ const (
 	// Category:  Symbol, Other
 	// String:    🪆
 	NestingDolls = '\U0001fa86'
+
+	// Maracas MARACAS
+	// Codepoint: U+1FA87
+	// Category:  Symbol, Other
+	// String:    🪇
+	Maracas = '\U0001fa87'
+
+	// Flute FLUTE
+	// Codepoint: U+1FA88
+	// Category:  Symbol, Other
+	// String:    🪈
+	Flute = '\U0001fa88'
 
 	// RingedPlanet RINGED PLANET
 	// Codepoint: U+1FA90
@@ -281,6 +311,24 @@ const (
 	// String:    🪬
 	Hamsa = '\U0001faac'
 
+	// FoldingHandFan FOLDING HAND FAN
+	// Codepoint: U+1FAAD
+	// Category:  Symbol, Other
+	// String:    🪭
+	FoldingHandFan = '\U0001faad'
+
+	// HairPick HAIR PICK
+	// Codepoint: U+1FAAE
+	// Category:  Symbol, Other
+	// String:    🪮
+	HairPick = '\U0001faae'
+
+	// Khanda KHANDA
+	// Codepoint: U+1FAAF
+	// Category:  Symbol, Other
+	// String:    🪯
+	Khanda = '\U0001faaf'
+
 	// Fly FLY
 	// Codepoint: U+1FAB0
 	// Category:  Symbol, Other
@@ -347,6 +395,30 @@ const (
 	// String:    🪺
 	NestWithEggs = '\U0001faba'
 
+	// Hyacinth HYACINTH
+	// Codepoint: U+1FABB
+	// Category:  Symbol, Other
+	// String:    🪻
+	Hyacinth = '\U0001fabb'
+
+	// Jellyfish JELLYFISH
+	// Codepoint: U+1FABC
+	// Category:  Symbol, Other
+	// String:    🪼
+	Jellyfish = '\U0001fabc'
+
+	// Wing WING
+	// Codepoint: U+1FABD
+	// Category:  Symbol, Other
+	// String:    🪽
+	Wing = '\U0001fabd'
+
+	// Goose GOOSE
+	// Codepoint: U+1FABF
+	// Category:  Symbol, Other
+	// String:    🪿
+	Goose = '\U0001fabf'
+
 	// AnatomicalHeart ANATOMICAL HEART
 	// Codepoint: U+1FAC0
 	// Category:  Symbol, Other
@@ -382,6 +454,18 @@ const (
 	// Category:  Symbol, Other
 	// String:    🫅
 	PersonWithCrown = '\U0001fac5'
+
+	// Moose MOOSE
+	// Codepoint: U+1FACE
+	// Category:  Symbol, Other
+	// String:    🫎
+	Moose = '\U0001face'
+
+	// Donkey DONKEY
+	// Codepoint: U+1FACF
+	// Category:  Symbol, Other
+	// String:    🫏
+	Donkey = '\U0001facf'
 
 	// Blueberries BLUEBERRIES
 	// Codepoint: U+1FAD0
@@ -443,6 +527,18 @@ const (
 	// String:    🫙
 	Jar = '\U0001fad9'
 
+	// GingerRoot GINGER ROOT
+	// Codepoint: U+1FADA
+	// Category:  Symbol, Other
+	// String:    🫚
+	GingerRoot = '\U0001fada'
+
+	// PeaPod PEA POD
+	// Codepoint: U+1FADB
+	// Category:  Symbol, Other
+	// String:    🫛
+	PeaPod = '\U0001fadb'
+
 	// MeltingFace MELTING FACE
 	// Codepoint: U+1FAE0
 	// Category:  Symbol, Other
@@ -491,6 +587,12 @@ const (
 	// String:    🫧
 	Bubbles = '\U0001fae7'
 
+	// ShakingFace SHAKING FACE
+	// Codepoint: U+1FAE8
+	// Category:  Symbol, Other
+	// String:    🫨
+	ShakingFace = '\U0001fae8'
+
 	// HandWithIndexFingerAndThumbCrossed HAND WITH INDEX FINGER AND THUMB CROSSED
 	// Codepoint: U+1FAF0
 	// Category:  Symbol, Other
@@ -532,4 +634,16 @@ const (
 	// Category:  Symbol, Other
 	// String:    🫶
 	HeartHands = '\U0001faf6'
+
+	// LeftwardsPushingHand LEFTWARDS PUSHING HAND
+	// Codepoint: U+1FAF7
+	// Category:  Symbol, Other
+	// String:    🫷
+	LeftwardsPushingHand = '\U0001faf7'
+
+	// RightwardsPushingHand RIGHTWARDS PUSHING HAND
+	// Codepoint: U+1FAF8
+	// Category:  Symbol, Other
+	// String:    🫸
+	RightwardsPushingHand = '\U0001faf8'
 )

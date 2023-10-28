@@ -8,12 +8,12 @@ const (
 	// UDB80 <Private Use High Surrogate, First>
 	// Codepoint: U+DB80
 	// Category:  Other, Surrogate
-	// String:    �
+	// String:    
 	UDB80 = '\udb80'
 
 	// UDBFF <Private Use High Surrogate, Last>
 	// Codepoint: U+DBFF
 	// Category:  Other, Surrogate
-	// String:    �
+	// String:    
 	UDBFF = '\udbff'
 )

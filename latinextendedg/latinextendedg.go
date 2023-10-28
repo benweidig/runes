@@ -190,4 +190,40 @@ const (
 	// Category:  Letter, Lowercase
 	// String:    𝼞
 	LatinSmallLetterSWithCurl = '\U0001df1e'
+
+	// LatinSmallLetterDWithMidHeightLeftHook LATIN SMALL LETTER D WITH MID-HEIGHT LEFT HOOK
+	// Codepoint: U+1DF25
+	// Category:  Letter, Lowercase
+	// String:    𝼥
+	LatinSmallLetterDWithMidHeightLeftHook = '\U0001df25'
+
+	// LatinSmallLetterLWithMidHeightLeftHook LATIN SMALL LETTER L WITH MID-HEIGHT LEFT HOOK
+	// Codepoint: U+1DF26
+	// Category:  Letter, Lowercase
+	// String:    𝼦
+	LatinSmallLetterLWithMidHeightLeftHook = '\U0001df26'
+
+	// LatinSmallLetterNWithMidHeightLeftHook LATIN SMALL LETTER N WITH MID-HEIGHT LEFT HOOK
+	// Codepoint: U+1DF27
+	// Category:  Letter, Lowercase
+	// String:    𝼧
+	LatinSmallLetterNWithMidHeightLeftHook = '\U0001df27'
+
+	// LatinSmallLetterRWithMidHeightLeftHook LATIN SMALL LETTER R WITH MID-HEIGHT LEFT HOOK
+	// Codepoint: U+1DF28
+	// Category:  Letter, Lowercase
+	// String:    𝼨
+	LatinSmallLetterRWithMidHeightLeftHook = '\U0001df28'
+
+	// LatinSmallLetterSWithMidHeightLeftHook LATIN SMALL LETTER S WITH MID-HEIGHT LEFT HOOK
+	// Codepoint: U+1DF29
+	// Category:  Letter, Lowercase
+	// String:    𝼩
+	LatinSmallLetterSWithMidHeightLeftHook = '\U0001df29'
+
+	// LatinSmallLetterTWithMidHeightLeftHook LATIN SMALL LETTER T WITH MID-HEIGHT LEFT HOOK
+	// Codepoint: U+1DF2A
+	// Category:  Letter, Lowercase
+	// String:    𝼪
+	LatinSmallLetterTWithMidHeightLeftHook = '\U0001df2a'
 )

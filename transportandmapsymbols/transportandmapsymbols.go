@@ -533,6 +533,12 @@ const (
 	// String:    🛗
 	Elevator = '\U0001f6d7'
 
+	// Wireless WIRELESS
+	// Codepoint: U+1F6DC
+	// Category:  Symbol, Other
+	// String:    🛜
+	Wireless = '\U0001f6dc'
+
 	// PlaygroundSlide PLAYGROUND SLIDE
 	// Codepoint: U+1F6DD
 	// Category:  Symbol, Other

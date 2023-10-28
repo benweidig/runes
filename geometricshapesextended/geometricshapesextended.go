@@ -539,6 +539,12 @@ const (
 	// String:    🟘
 	NegativeCircledSquare = '\U0001f7d8'
 
+	// NinePointedWhiteStar NINE POINTED WHITE STAR
+	// Codepoint: U+1F7D9
+	// Category:  Symbol, Other
+	// String:    🟙
+	NinePointedWhiteStar = '\U0001f7d9'
+
 	// LargeOrangeCircle LARGE ORANGE CIRCLE
 	// Codepoint: U+1F7E0
 	// Category:  Symbol, Other

@@ -5,6 +5,12 @@ package smallkanaextension
 
 const (
 
+	// HiraganaLetterSmallKo HIRAGANA LETTER SMALL KO
+	// Codepoint: U+1B132
+	// Category:  Letter, Other
+	// String:    𛄲
+	HiraganaLetterSmallKo = '\U0001b132'
+
 	// HiraganaLetterSmallWi HIRAGANA LETTER SMALL WI
 	// Codepoint: U+1B150
 	// Category:  Letter, Other
@@ -22,6 +28,12 @@ const (
 	// Category:  Letter, Other
 	// String:    𛅒
 	HiraganaLetterSmallWo = '\U0001b152'
+
+	// KatakanaLetterSmallKo KATAKANA LETTER SMALL KO
+	// Codepoint: U+1B155
+	// Category:  Letter, Other
+	// String:    𛅕
+	KatakanaLetterSmallKo = '\U0001b155'
 
 	// KatakanaLetterSmallWi KATAKANA LETTER SMALL WI
 	// Codepoint: U+1B164
